@@ -39,11 +39,16 @@ def _validate_records(data: object) -> list[dict[str, object]]:
     return data
 
 
-def fetch_daily_boardings(*, endpoint: str | None = None, timeout: float = 10.0) -> list[dict[str, object]]:
+def fetch_daily_boardings(
+    *, endpoint: str | None = None, timeout: float = 10.0,
+    validate_records: bool = True,
+) -> list[dict[str, object]]:
     """Fetch and validate the latest 100 CTA daily boarding records.
 
     ``endpoint`` overrides the default and can also be configured with
     ``CTA_BOARDINGS_API_URL``. Existing query parameters are preserved.
+    Set ``validate_records=False`` to defer record validation to processing;
+    JSON decoding and top-level array validation always remain enabled.
     """
     endpoint = endpoint or os.environ.get("CTA_BOARDINGS_API_URL", DEFAULT_ENDPOINT)
     parsed = urlsplit(endpoint)
@@ -68,4 +73,6 @@ def fetch_daily_boardings(*, endpoint: str | None = None, timeout: float = 10.0)
         data = json.loads(payload)
     except (ValueError, UnicodeError):
         raise IngestionError("CTA API response is not valid JSON") from None
-    return _validate_records(data)
+    if not isinstance(data, list):
+        raise IngestionError("CTA API response must be a JSON array")
+    return _validate_records(data) if validate_records else data
