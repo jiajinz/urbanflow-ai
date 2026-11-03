@@ -1,7 +1,16 @@
+# AI agent instructions
+AGENTS.md
+
+# IDE configuration
+.idea/
+
+# Python environment
+.venv/
+.env
+
+# Python cache
 __pycache__/
 *.py[cod]
-.venv/
+.pytest_cache/
 *.egg-info/
-build/
-dist/
-.env
+.streamlit/secrets.toml

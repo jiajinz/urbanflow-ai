@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source_url": "https://data.cityofchicago.org/resource/6iiy-9s97.json",
+  "source_name": "Chicago CTA Daily Boarding Totals (6iiy-9s97)",
+  "generated_at_utc": "2026-11-01T18:37:51.490297+00:00",
+  "requested_start": "2025-01-01",
+  "requested_end_exclusive": "2026-09-01",
+  "min_date": "2025-01-01",
+  "max_date": "2026-08-31",
+  "row_count": 518,
+  "missing_calendar_days": 90,
+  "sha256": "b5701bd717f234fc26a63e869fb6bc061fc963480b8a2be3899883cc4fac685c",
+  "sql_sha256": "8d93b04bfc2b36a413271d048957d286b155f10192bb08380c1b6662ee96d5c3",
+  "verification": "PostgreSQL and DuckDB results matched for all six analytics queries"
+}

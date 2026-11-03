@@ -1,0 +1,5712 @@
+{
+  "summary": [
+    {
+      "observed_days": 518,
+      "total_rides": 489872393,
+      "average_daily_bus": 555704.4826254826,
+      "average_daily_rail": 389995.1177606178,
+      "bus_share": 0.5876120519,
+      "rail_share": 0.4123879481,
+      "missing_days": 90,
+      "calendar_days": 608
+    }
+  ],
+  "daily": [
+    {
+      "service_date": "2025-01-01T00:00:00.000",
+      "day_type": "U",
+      "bus": 225844.0,
+      "rail_boardings": 192904.0,
+      "total_rides": 418748.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 458775.0,
+      "rail_boardings": 286815.0,
+      "total_rides": 745590.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 470436.0,
+      "rail_boardings": 290712.0,
+      "total_rides": 761148.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-04T00:00:00.000",
+      "day_type": "A",
+      "bus": 342619.0,
+      "rail_boardings": 216349.0,
+      "total_rides": 558968.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-05T00:00:00.000",
+      "day_type": "U",
+      "bus": 260559.0,
+      "rail_boardings": 156598.0,
+      "total_rides": 417157.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 514719.0,
+      "rail_boardings": 325537.0,
+      "total_rides": 840256.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2025-01-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 578221.0,
+      "rail_boardings": 379515.0,
+      "total_rides": 957736.0,
+      "rolling_average_7d": 671371.8571428572
+    },
+    {
+      "service_date": "2025-01-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 585761.0,
+      "rail_boardings": 381427.0,
+      "total_rides": 967188.0,
+      "rolling_average_7d": 749720.4285714285
+    },
+    {
+      "service_date": "2025-01-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 585049.0,
+      "rail_boardings": 377231.0,
+      "total_rides": 962280.0,
+      "rolling_average_7d": 780676.1428571428
+    },
+    {
+      "service_date": "2025-01-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 531028.0,
+      "rail_boardings": 320065.0,
+      "total_rides": 851093.0,
+      "rolling_average_7d": 793525.4285714285
+    },
+    {
+      "service_date": "2025-01-11T00:00:00.000",
+      "day_type": "A",
+      "bus": 373278.0,
+      "rail_boardings": 231993.0,
+      "total_rides": 605271.0,
+      "rolling_average_7d": 800140.1428571428
+    },
+    {
+      "service_date": "2025-01-12T00:00:00.000",
+      "day_type": "U",
+      "bus": 270457.0,
+      "rail_boardings": 167566.0,
+      "total_rides": 438023.0,
+      "rolling_average_7d": 803121.0
+    },
+    {
+      "service_date": "2025-01-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 560632.0,
+      "rail_boardings": 350428.0,
+      "total_rides": 911060.0,
+      "rolling_average_7d": 813235.8571428572
+    },
+    {
+      "service_date": "2025-01-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 580195.0,
+      "rail_boardings": 389994.0,
+      "total_rides": 970189.0,
+      "rolling_average_7d": 815014.8571428572
+    },
+    {
+      "service_date": "2025-01-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 590263.0,
+      "rail_boardings": 388077.0,
+      "total_rides": 978340.0,
+      "rolling_average_7d": 816608.0
+    },
+    {
+      "service_date": "2025-01-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 622511.0,
+      "rail_boardings": 403599.0,
+      "total_rides": 1026110.0,
+      "rolling_average_7d": 825726.5714285715
+    },
+    {
+      "service_date": "2025-01-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 607549.0,
+      "rail_boardings": 359582.0,
+      "total_rides": 967131.0,
+      "rolling_average_7d": 842303.4285714285
+    },
+    {
+      "service_date": "2025-01-18T00:00:00.000",
+      "day_type": "A",
+      "bus": 384014.0,
+      "rail_boardings": 241519.0,
+      "total_rides": 625533.0,
+      "rolling_average_7d": 845198.0
+    },
+    {
+      "service_date": "2025-01-19T00:00:00.000",
+      "day_type": "U",
+      "bus": 238638.0,
+      "rail_boardings": 149337.0,
+      "total_rides": 387975.0,
+      "rolling_average_7d": 838048.2857142857
+    },
+    {
+      "service_date": "2025-01-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 279669.0,
+      "rail_boardings": 168638.0,
+      "total_rides": 448307.0,
+      "rolling_average_7d": 771940.7142857143
+    },
+    {
+      "service_date": "2025-01-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 316922.0,
+      "rail_boardings": 213964.0,
+      "total_rides": 530886.0,
+      "rolling_average_7d": 709183.1428571428
+    },
+    {
+      "service_date": "2025-01-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 539021.0,
+      "rail_boardings": 355811.0,
+      "total_rides": 894832.0,
+      "rolling_average_7d": 697253.4285714285
+    },
+    {
+      "service_date": "2025-01-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 598113.0,
+      "rail_boardings": 389055.0,
+      "total_rides": 987168.0,
+      "rolling_average_7d": 691690.2857142857
+    },
+    {
+      "service_date": "2025-01-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 555584.0,
+      "rail_boardings": 324370.0,
+      "total_rides": 879954.0,
+      "rolling_average_7d": 679236.4285714285
+    },
+    {
+      "service_date": "2025-01-25T00:00:00.000",
+      "day_type": "A",
+      "bus": 384469.0,
+      "rail_boardings": 234734.0,
+      "total_rides": 619203.0,
+      "rolling_average_7d": 678332.1428571428
+    },
+    {
+      "service_date": "2025-01-26T00:00:00.000",
+      "day_type": "U",
+      "bus": 285407.0,
+      "rail_boardings": 171484.0,
+      "total_rides": 456891.0,
+      "rolling_average_7d": 688177.2857142857
+    },
+    {
+      "service_date": "2025-01-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 601896.0,
+      "rail_boardings": 354963.0,
+      "total_rides": 956859.0,
+      "rolling_average_7d": 760827.5714285715
+    },
+    {
+      "service_date": "2025-01-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 646008.0,
+      "rail_boardings": 407799.0,
+      "total_rides": 1053807.0,
+      "rolling_average_7d": 835530.5714285715
+    },
+    {
+      "service_date": "2025-01-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 649484.0,
+      "rail_boardings": 408844.0,
+      "total_rides": 1058328.0,
+      "rolling_average_7d": 858887.1428571428
+    },
+    {
+      "service_date": "2025-01-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 641234.0,
+      "rail_boardings": 404454.0,
+      "total_rides": 1045688.0,
+      "rolling_average_7d": 867247.1428571428
+    },
+    {
+      "service_date": "2025-01-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 543000.0,
+      "rail_boardings": 316913.0,
+      "total_rides": 859913.0,
+      "rolling_average_7d": 864384.1428571428
+    },
+    {
+      "service_date": "2025-02-01T00:00:00.000",
+      "day_type": "A",
+      "bus": 407712.0,
+      "rail_boardings": 237678.0,
+      "total_rides": 645390.0,
+      "rolling_average_7d": 868125.1428571428
+    },
+    {
+      "service_date": "2025-02-02T00:00:00.000",
+      "day_type": "U",
+      "bus": 302902.0,
+      "rail_boardings": 176382.0,
+      "total_rides": 479284.0,
+      "rolling_average_7d": 871324.1428571428
+    },
+    {
+      "service_date": "2025-02-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 606339.0,
+      "rail_boardings": 353604.0,
+      "total_rides": 959943.0,
+      "rolling_average_7d": 871764.7142857143
+    },
+    {
+      "service_date": "2025-02-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 645402.0,
+      "rail_boardings": 406443.0,
+      "total_rides": 1051845.0,
+      "rolling_average_7d": 871484.4285714285
+    },
+    {
+      "service_date": "2025-02-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 635406.0,
+      "rail_boardings": 401074.0,
+      "total_rides": 1036480.0,
+      "rolling_average_7d": 868363.2857142857
+    },
+    {
+      "service_date": "2025-02-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 609473.0,
+      "rail_boardings": 389270.0,
+      "total_rides": 998743.0,
+      "rolling_average_7d": 861656.8571428572
+    },
+    {
+      "service_date": "2025-02-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 607518.0,
+      "rail_boardings": 343179.0,
+      "total_rides": 950697.0,
+      "rolling_average_7d": 874626.0
+    },
+    {
+      "service_date": "2025-02-08T00:00:00.000",
+      "day_type": "A",
+      "bus": 384157.0,
+      "rail_boardings": 230997.0,
+      "total_rides": 615154.0,
+      "rolling_average_7d": 870306.5714285715
+    },
+    {
+      "service_date": "2025-02-09T00:00:00.000",
+      "day_type": "U",
+      "bus": 305384.0,
+      "rail_boardings": 184140.0,
+      "total_rides": 489524.0,
+      "rolling_average_7d": 871769.4285714285
+    },
+    {
+      "service_date": "2025-02-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 610015.0,
+      "rail_boardings": 348496.0,
+      "total_rides": 958511.0,
+      "rolling_average_7d": 871564.8571428572
+    },
+    {
+      "service_date": "2025-02-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 647968.0,
+      "rail_boardings": 403018.0,
+      "total_rides": 1050986.0,
+      "rolling_average_7d": 871442.1428571428
+    },
+    {
+      "service_date": "2025-02-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 534498.0,
+      "rail_boardings": 331208.0,
+      "total_rides": 865706.0,
+      "rolling_average_7d": 847045.8571428572
+    },
+    {
+      "service_date": "2025-02-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 606722.0,
+      "rail_boardings": 385304.0,
+      "total_rides": 992026.0,
+      "rolling_average_7d": 846086.2857142857
+    },
+    {
+      "service_date": "2025-02-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 573008.0,
+      "rail_boardings": 335400.0,
+      "total_rides": 908408.0,
+      "rolling_average_7d": 840045.0
+    },
+    {
+      "service_date": "2025-02-15T00:00:00.000",
+      "day_type": "A",
+      "bus": 386605.0,
+      "rail_boardings": 240422.0,
+      "total_rides": 627027.0,
+      "rolling_average_7d": 841741.1428571428
+    },
+    {
+      "service_date": "2025-02-16T00:00:00.000",
+      "day_type": "U",
+      "bus": 299024.0,
+      "rail_boardings": 181536.0,
+      "total_rides": 480560.0,
+      "rolling_average_7d": 840460.5714285715
+    },
+    {
+      "service_date": "2025-02-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 400615.0,
+      "rail_boardings": 244659.0,
+      "total_rides": 645274.0,
+      "rolling_average_7d": 795712.4285714285
+    },
+    {
+      "service_date": "2025-02-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 531736.0,
+      "rail_boardings": 333870.0,
+      "total_rides": 865606.0,
+      "rolling_average_7d": 769229.5714285715
+    },
+    {
+      "service_date": "2025-02-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 594850.0,
+      "rail_boardings": 372372.0,
+      "total_rides": 967222.0,
+      "rolling_average_7d": 783731.8571428572
+    },
+    {
+      "service_date": "2025-02-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 617425.0,
+      "rail_boardings": 389274.0,
+      "total_rides": 1006699.0,
+      "rolling_average_7d": 785828.0
+    },
+    {
+      "service_date": "2025-02-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 596118.0,
+      "rail_boardings": 337263.0,
+      "total_rides": 933381.0,
+      "rolling_average_7d": 789395.5714285715
+    },
+    {
+      "service_date": "2025-02-22T00:00:00.000",
+      "day_type": "A",
+      "bus": 406903.0,
+      "rail_boardings": 240475.0,
+      "total_rides": 647378.0,
+      "rolling_average_7d": 792302.8571428572
+    },
+    {
+      "service_date": "2025-02-23T00:00:00.000",
+      "day_type": "U",
+      "bus": 307050.0,
+      "rail_boardings": 178392.0,
+      "total_rides": 485442.0,
+      "rolling_average_7d": 793000.2857142857
+    },
+    {
+      "service_date": "2025-02-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 624782.0,
+      "rail_boardings": 362175.0,
+      "total_rides": 986957.0,
+      "rolling_average_7d": 841812.1428571428
+    },
+    {
+      "service_date": "2025-02-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 627199.0,
+      "rail_boardings": 405412.0,
+      "total_rides": 1032611.0,
+      "rolling_average_7d": 865670.0
+    },
+    {
+      "service_date": "2025-02-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 660497.0,
+      "rail_boardings": 406418.0,
+      "total_rides": 1066915.0,
+      "rolling_average_7d": 879911.8571428572
+    },
+    {
+      "service_date": "2025-02-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 664356.0,
+      "rail_boardings": 411692.0,
+      "total_rides": 1076048.0,
+      "rolling_average_7d": 889818.8571428572
+    },
+    {
+      "service_date": "2025-02-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 638990.0,
+      "rail_boardings": 361604.0,
+      "total_rides": 1000594.0,
+      "rolling_average_7d": 899420.7142857143
+    },
+    {
+      "service_date": "2025-03-01T00:00:00.000",
+      "day_type": "A",
+      "bus": 417449.0,
+      "rail_boardings": 246424.0,
+      "total_rides": 663873.0,
+      "rolling_average_7d": 901777.1428571428
+    },
+    {
+      "service_date": "2025-03-02T00:00:00.000",
+      "day_type": "U",
+      "bus": 317388.0,
+      "rail_boardings": 184554.0,
+      "total_rides": 501942.0,
+      "rolling_average_7d": 904134.2857142857
+    },
+    {
+      "service_date": "2025-03-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 625319.0,
+      "rail_boardings": 354348.0,
+      "total_rides": 979667.0,
+      "rolling_average_7d": 903092.8571428572
+    },
+    {
+      "service_date": "2025-03-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 629120.0,
+      "rail_boardings": 399036.0,
+      "total_rides": 1028156.0,
+      "rolling_average_7d": 902456.4285714285
+    },
+    {
+      "service_date": "2025-03-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 654088.0,
+      "rail_boardings": 406995.0,
+      "total_rides": 1061083.0,
+      "rolling_average_7d": 901623.2857142857
+    },
+    {
+      "service_date": "2025-03-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 671560.0,
+      "rail_boardings": 414203.0,
+      "total_rides": 1085763.0,
+      "rolling_average_7d": 903011.1428571428
+    },
+    {
+      "service_date": "2025-03-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 600283.0,
+      "rail_boardings": 344590.0,
+      "total_rides": 944873.0,
+      "rolling_average_7d": 895051.0
+    },
+    {
+      "service_date": "2025-03-08T00:00:00.000",
+      "day_type": "A",
+      "bus": 437194.0,
+      "rail_boardings": 264584.0,
+      "total_rides": 701778.0,
+      "rolling_average_7d": 900466.0
+    },
+    {
+      "service_date": "2025-03-09T00:00:00.000",
+      "day_type": "U",
+      "bus": 328363.0,
+      "rail_boardings": 197588.0,
+      "total_rides": 525951.0,
+      "rolling_average_7d": 903895.8571428572
+    },
+    {
+      "service_date": "2025-03-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 642632.0,
+      "rail_boardings": 380879.0,
+      "total_rides": 1023511.0,
+      "rolling_average_7d": 910159.2857142857
+    },
+    {
+      "service_date": "2025-03-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 678778.0,
+      "rail_boardings": 428526.0,
+      "total_rides": 1107304.0,
+      "rolling_average_7d": 921466.1428571428
+    },
+    {
+      "service_date": "2025-03-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 685975.0,
+      "rail_boardings": 431488.0,
+      "total_rides": 1117463.0,
+      "rolling_average_7d": 929520.4285714285
+    },
+    {
+      "service_date": "2025-03-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 685187.0,
+      "rail_boardings": 443842.0,
+      "total_rides": 1129029.0,
+      "rolling_average_7d": 935701.2857142857
+    },
+    {
+      "service_date": "2025-03-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 660184.0,
+      "rail_boardings": 426782.0,
+      "total_rides": 1086966.0,
+      "rolling_average_7d": 956000.2857142857
+    },
+    {
+      "service_date": "2025-03-15T00:00:00.000",
+      "day_type": "A",
+      "bus": 459936.0,
+      "rail_boardings": 578528.0,
+      "total_rides": 1038464.0,
+      "rolling_average_7d": 1004098.2857142857
+    },
+    {
+      "service_date": "2025-03-16T00:00:00.000",
+      "day_type": "U",
+      "bus": 298358.0,
+      "rail_boardings": 217264.0,
+      "total_rides": 515622.0,
+      "rolling_average_7d": 1002622.7142857143
+    },
+    {
+      "service_date": "2025-03-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 641760.0,
+      "rail_boardings": 397964.0,
+      "total_rides": 1039724.0,
+      "rolling_average_7d": 1004938.8571428572
+    },
+    {
+      "service_date": "2025-03-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 683691.0,
+      "rail_boardings": 444142.0,
+      "total_rides": 1127833.0,
+      "rolling_average_7d": 1007871.5714285715
+    },
+    {
+      "service_date": "2025-03-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 635916.0,
+      "rail_boardings": 419475.0,
+      "total_rides": 1055391.0,
+      "rolling_average_7d": 999004.1428571428
+    },
+    {
+      "service_date": "2025-03-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 648522.0,
+      "rail_boardings": 420015.0,
+      "total_rides": 1068537.0,
+      "rolling_average_7d": 990362.4285714285
+    },
+    {
+      "service_date": "2025-03-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 635894.0,
+      "rail_boardings": 374920.0,
+      "total_rides": 1010814.0,
+      "rolling_average_7d": 979483.5714285715
+    },
+    {
+      "service_date": "2025-03-22T00:00:00.000",
+      "day_type": "A",
+      "bus": 431231.0,
+      "rail_boardings": 276414.0,
+      "total_rides": 707645.0,
+      "rolling_average_7d": 932223.7142857143
+    },
+    {
+      "service_date": "2025-03-23T00:00:00.000",
+      "day_type": "U",
+      "bus": 297740.0,
+      "rail_boardings": 213829.0,
+      "total_rides": 511569.0,
+      "rolling_average_7d": 931644.7142857143
+    },
+    {
+      "service_date": "2025-03-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 536885.0,
+      "rail_boardings": 328513.0,
+      "total_rides": 865398.0,
+      "rolling_average_7d": 906741.0
+    },
+    {
+      "service_date": "2025-03-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 586792.0,
+      "rail_boardings": 380398.0,
+      "total_rides": 967190.0,
+      "rolling_average_7d": 883792.0
+    },
+    {
+      "service_date": "2025-03-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 595476.0,
+      "rail_boardings": 381973.0,
+      "total_rides": 977449.0,
+      "rolling_average_7d": 872657.4285714285
+    },
+    {
+      "service_date": "2025-03-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 572285.0,
+      "rail_boardings": 385280.0,
+      "total_rides": 957565.0,
+      "rolling_average_7d": 856804.2857142857
+    },
+    {
+      "service_date": "2025-03-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 558797.0,
+      "rail_boardings": 348709.0,
+      "total_rides": 907506.0,
+      "rolling_average_7d": 842046.0
+    },
+    {
+      "service_date": "2025-03-29T00:00:00.000",
+      "day_type": "A",
+      "bus": 426225.0,
+      "rail_boardings": 272473.0,
+      "total_rides": 698698.0,
+      "rolling_average_7d": 840767.8571428572
+    },
+    {
+      "service_date": "2025-03-30T00:00:00.000",
+      "day_type": "U",
+      "bus": 310139.0,
+      "rail_boardings": 194212.0,
+      "total_rides": 504351.0,
+      "rolling_average_7d": 839736.7142857143
+    },
+    {
+      "service_date": "2025-03-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 569528.0,
+      "rail_boardings": 363874.0,
+      "total_rides": 933402.0,
+      "rolling_average_7d": 849451.5714285715
+    },
+    {
+      "service_date": "2025-04-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 640123.0,
+      "rail_boardings": 417811.0,
+      "total_rides": 1057934.0,
+      "rolling_average_7d": 862415.0
+    },
+    {
+      "service_date": "2025-04-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 562307.0,
+      "rail_boardings": 384684.0,
+      "total_rides": 946991.0,
+      "rolling_average_7d": 858063.8571428572
+    },
+    {
+      "service_date": "2025-04-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 706537.0,
+      "rail_boardings": 448398.0,
+      "total_rides": 1154935.0,
+      "rolling_average_7d": 886259.5714285715
+    },
+    {
+      "service_date": "2025-04-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 655531.0,
+      "rail_boardings": 408483.0,
+      "total_rides": 1064014.0,
+      "rolling_average_7d": 908617.8571428572
+    },
+    {
+      "service_date": "2025-04-05T00:00:00.000",
+      "day_type": "A",
+      "bus": 445037.0,
+      "rail_boardings": 336612.0,
+      "total_rides": 781649.0,
+      "rolling_average_7d": 920468.0
+    },
+    {
+      "service_date": "2025-04-06T00:00:00.000",
+      "day_type": "U",
+      "bus": 344926.0,
+      "rail_boardings": 234208.0,
+      "total_rides": 579134.0,
+      "rolling_average_7d": 931151.2857142857
+    },
+    {
+      "service_date": "2025-04-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 633704.0,
+      "rail_boardings": 384950.0,
+      "total_rides": 1018654.0,
+      "rolling_average_7d": 943330.1428571428
+    },
+    {
+      "service_date": "2025-04-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 654659.0,
+      "rail_boardings": 440394.0,
+      "total_rides": 1095053.0,
+      "rolling_average_7d": 948632.8571428572
+    },
+    {
+      "service_date": "2025-04-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 654492.0,
+      "rail_boardings": 432528.0,
+      "total_rides": 1087020.0,
+      "rolling_average_7d": 968637.0
+    },
+    {
+      "service_date": "2025-04-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 661603.0,
+      "rail_boardings": 435867.0,
+      "total_rides": 1097470.0,
+      "rolling_average_7d": 960427.7142857143
+    },
+    {
+      "service_date": "2025-04-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 663376.0,
+      "rail_boardings": 399616.0,
+      "total_rides": 1062992.0,
+      "rolling_average_7d": 960281.7142857143
+    },
+    {
+      "service_date": "2025-04-12T00:00:00.000",
+      "day_type": "A",
+      "bus": 462736.0,
+      "rail_boardings": 305232.0,
+      "total_rides": 767968.0,
+      "rolling_average_7d": 958327.2857142857
+    },
+    {
+      "service_date": "2025-04-13T00:00:00.000",
+      "day_type": "U",
+      "bus": 349886.0,
+      "rail_boardings": 234292.0,
+      "total_rides": 584178.0,
+      "rolling_average_7d": 959047.8571428572
+    },
+    {
+      "service_date": "2025-04-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 658807.0,
+      "rail_boardings": 392199.0,
+      "total_rides": 1051006.0,
+      "rolling_average_7d": 963669.5714285715
+    },
+    {
+      "service_date": "2025-04-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 670860.0,
+      "rail_boardings": 441572.0,
+      "total_rides": 1112432.0,
+      "rolling_average_7d": 966152.2857142857
+    },
+    {
+      "service_date": "2025-04-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 693466.0,
+      "rail_boardings": 449648.0,
+      "total_rides": 1143114.0,
+      "rolling_average_7d": 974165.7142857143
+    },
+    {
+      "service_date": "2025-04-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 664953.0,
+      "rail_boardings": 447559.0,
+      "total_rides": 1112512.0,
+      "rolling_average_7d": 976314.5714285715
+    },
+    {
+      "service_date": "2025-04-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 573522.0,
+      "rail_boardings": 388980.0,
+      "total_rides": 962502.0,
+      "rolling_average_7d": 961958.8571428572
+    },
+    {
+      "service_date": "2025-04-19T00:00:00.000",
+      "day_type": "A",
+      "bus": 434831.0,
+      "rail_boardings": 298128.0,
+      "total_rides": 732959.0,
+      "rolling_average_7d": 956957.5714285715
+    },
+    {
+      "service_date": "2025-04-20T00:00:00.000",
+      "day_type": "U",
+      "bus": 307295.0,
+      "rail_boardings": 197946.0,
+      "total_rides": 505241.0,
+      "rolling_average_7d": 945680.8571428572
+    },
+    {
+      "service_date": "2025-04-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 615719.0,
+      "rail_boardings": 370290.0,
+      "total_rides": 986009.0,
+      "rolling_average_7d": 936395.5714285715
+    },
+    {
+      "service_date": "2025-04-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 682743.0,
+      "rail_boardings": 459783.0,
+      "total_rides": 1142526.0,
+      "rolling_average_7d": 940694.7142857143
+    },
+    {
+      "service_date": "2025-04-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 663110.0,
+      "rail_boardings": 458376.0,
+      "total_rides": 1121486.0,
+      "rolling_average_7d": 937605.0
+    },
+    {
+      "service_date": "2025-04-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 693232.0,
+      "rail_boardings": 458764.0,
+      "total_rides": 1151996.0,
+      "rolling_average_7d": 943245.5714285715
+    },
+    {
+      "service_date": "2025-04-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 632561.0,
+      "rail_boardings": 409879.0,
+      "total_rides": 1042440.0,
+      "rolling_average_7d": 954665.2857142857
+    },
+    {
+      "service_date": "2025-04-26T00:00:00.000",
+      "day_type": "A",
+      "bus": 463597.0,
+      "rail_boardings": 324508.0,
+      "total_rides": 788105.0,
+      "rolling_average_7d": 962543.2857142857
+    },
+    {
+      "service_date": "2025-04-27T00:00:00.000",
+      "day_type": "U",
+      "bus": 358340.0,
+      "rail_boardings": 251485.0,
+      "total_rides": 609825.0,
+      "rolling_average_7d": 977483.8571428572
+    },
+    {
+      "service_date": "2025-04-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 665474.0,
+      "rail_boardings": 403776.0,
+      "total_rides": 1069250.0,
+      "rolling_average_7d": 989375.4285714285
+    },
+    {
+      "service_date": "2025-04-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 684590.0,
+      "rail_boardings": 451083.0,
+      "total_rides": 1135673.0,
+      "rolling_average_7d": 988396.4285714285
+    },
+    {
+      "service_date": "2025-04-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 673173.0,
+      "rail_boardings": 445816.0,
+      "total_rides": 1118989.0,
+      "rolling_average_7d": 988039.7142857143
+    },
+    {
+      "service_date": "2025-05-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 665584.0,
+      "rail_boardings": 447789.0,
+      "total_rides": 1113373.0,
+      "rolling_average_7d": 982522.1428571428
+    },
+    {
+      "service_date": "2025-05-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 667696.0,
+      "rail_boardings": 398588.0,
+      "total_rides": 1066284.0,
+      "rolling_average_7d": 985928.4285714285
+    },
+    {
+      "service_date": "2025-05-03T00:00:00.000",
+      "day_type": "A",
+      "bus": 462238.0,
+      "rail_boardings": 298596.0,
+      "total_rides": 760834.0,
+      "rolling_average_7d": 982032.5714285715
+    },
+    {
+      "service_date": "2025-05-04T00:00:00.000",
+      "day_type": "U",
+      "bus": 325938.0,
+      "rail_boardings": 212285.0,
+      "total_rides": 538223.0,
+      "rolling_average_7d": 971803.7142857143
+    },
+    {
+      "service_date": "2025-05-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 655835.0,
+      "rail_boardings": 409212.0,
+      "total_rides": 1065047.0,
+      "rolling_average_7d": 971203.2857142857
+    },
+    {
+      "service_date": "2025-05-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 696611.0,
+      "rail_boardings": 471735.0,
+      "total_rides": 1168346.0,
+      "rolling_average_7d": 975870.8571428572
+    },
+    {
+      "service_date": "2025-05-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 687937.0,
+      "rail_boardings": 469297.0,
+      "total_rides": 1157234.0,
+      "rolling_average_7d": 981334.4285714285
+    },
+    {
+      "service_date": "2025-05-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 678319.0,
+      "rail_boardings": 456161.0,
+      "total_rides": 1134480.0,
+      "rolling_average_7d": 984349.7142857143
+    },
+    {
+      "service_date": "2025-05-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 662444.0,
+      "rail_boardings": 408120.0,
+      "total_rides": 1070564.0,
+      "rolling_average_7d": 984961.1428571428
+    },
+    {
+      "service_date": "2025-05-10T00:00:00.000",
+      "day_type": "A",
+      "bus": 464180.0,
+      "rail_boardings": 304816.0,
+      "total_rides": 768996.0,
+      "rolling_average_7d": 986127.1428571428
+    },
+    {
+      "service_date": "2025-05-11T00:00:00.000",
+      "day_type": "U",
+      "bus": 344970.0,
+      "rail_boardings": 224894.0,
+      "total_rides": 569864.0,
+      "rolling_average_7d": 990647.2857142857
+    },
+    {
+      "service_date": "2025-05-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 632141.0,
+      "rail_boardings": 399002.0,
+      "total_rides": 1031143.0,
+      "rolling_average_7d": 985803.8571428572
+    },
+    {
+      "service_date": "2025-05-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 674740.0,
+      "rail_boardings": 459584.0,
+      "total_rides": 1134324.0,
+      "rolling_average_7d": 980943.5714285715
+    },
+    {
+      "service_date": "2025-05-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 676792.0,
+      "rail_boardings": 469275.0,
+      "total_rides": 1146067.0,
+      "rolling_average_7d": 979348.2857142857
+    },
+    {
+      "service_date": "2025-05-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 670398.0,
+      "rail_boardings": 455797.0,
+      "total_rides": 1126195.0,
+      "rolling_average_7d": 978164.7142857143
+    },
+    {
+      "service_date": "2025-05-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 655731.0,
+      "rail_boardings": 446648.0,
+      "total_rides": 1102379.0,
+      "rolling_average_7d": 982709.7142857143
+    },
+    {
+      "service_date": "2025-05-17T00:00:00.000",
+      "day_type": "A",
+      "bus": 455837.0,
+      "rail_boardings": 351119.0,
+      "total_rides": 806956.0,
+      "rolling_average_7d": 988132.5714285715
+    },
+    {
+      "service_date": "2025-05-18T00:00:00.000",
+      "day_type": "U",
+      "bus": 360197.0,
+      "rail_boardings": 291025.0,
+      "total_rides": 651222.0,
+      "rolling_average_7d": 999755.1428571428
+    },
+    {
+      "service_date": "2025-05-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 632753.0,
+      "rail_boardings": 400442.0,
+      "total_rides": 1033195.0,
+      "rolling_average_7d": 1000048.2857142857
+    },
+    {
+      "service_date": "2025-05-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 596285.0,
+      "rail_boardings": 414254.0,
+      "total_rides": 1010539.0,
+      "rolling_average_7d": 982364.7142857143
+    },
+    {
+      "service_date": "2025-05-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 643463.0,
+      "rail_boardings": 435417.0,
+      "total_rides": 1078880.0,
+      "rolling_average_7d": 972766.5714285715
+    },
+    {
+      "service_date": "2025-05-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 660421.0,
+      "rail_boardings": 458127.0,
+      "total_rides": 1118548.0,
+      "rolling_average_7d": 971674.1428571428
+    },
+    {
+      "service_date": "2025-05-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 642179.0,
+      "rail_boardings": 407023.0,
+      "total_rides": 1049202.0,
+      "rolling_average_7d": 964077.4285714285
+    },
+    {
+      "service_date": "2025-05-24T00:00:00.000",
+      "day_type": "A",
+      "bus": 449312.0,
+      "rail_boardings": 352134.0,
+      "total_rides": 801446.0,
+      "rolling_average_7d": 963290.2857142857
+    },
+    {
+      "service_date": "2025-05-25T00:00:00.000",
+      "day_type": "U",
+      "bus": 357748.0,
+      "rail_boardings": 280409.0,
+      "total_rides": 638157.0,
+      "rolling_average_7d": 961423.8571428572
+    },
+    {
+      "service_date": "2025-05-26T00:00:00.000",
+      "day_type": "U",
+      "bus": 350782.0,
+      "rail_boardings": 247930.0,
+      "total_rides": 598712.0,
+      "rolling_average_7d": 899354.8571428572
+    },
+    {
+      "service_date": "2025-05-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 650816.0,
+      "rail_boardings": 432469.0,
+      "total_rides": 1083285.0,
+      "rolling_average_7d": 909747.1428571428
+    },
+    {
+      "service_date": "2025-05-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 636696.0,
+      "rail_boardings": 443464.0,
+      "total_rides": 1080160.0,
+      "rolling_average_7d": 909930.0
+    },
+    {
+      "service_date": "2025-05-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 667477.0,
+      "rail_boardings": 450747.0,
+      "total_rides": 1118224.0,
+      "rolling_average_7d": 909883.7142857143
+    },
+    {
+      "service_date": "2025-05-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 646031.0,
+      "rail_boardings": 426223.0,
+      "total_rides": 1072254.0,
+      "rolling_average_7d": 913176.8571428572
+    },
+    {
+      "service_date": "2025-05-31T00:00:00.000",
+      "day_type": "A",
+      "bus": 464022.0,
+      "rail_boardings": 342068.0,
+      "total_rides": 806090.0,
+      "rolling_average_7d": 913840.2857142857
+    },
+    {
+      "service_date": "2025-06-01T00:00:00.000",
+      "day_type": "U",
+      "bus": 354696.0,
+      "rail_boardings": 274853.0,
+      "total_rides": 629549.0,
+      "rolling_average_7d": 912610.5714285715
+    },
+    {
+      "service_date": "2025-06-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 651315.0,
+      "rail_boardings": 408540.0,
+      "total_rides": 1059855.0,
+      "rolling_average_7d": 978488.1428571428
+    },
+    {
+      "service_date": "2025-06-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 685304.0,
+      "rail_boardings": 459948.0,
+      "total_rides": 1145252.0,
+      "rolling_average_7d": 987340.5714285715
+    },
+    {
+      "service_date": "2025-06-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 616414.0,
+      "rail_boardings": 432355.0,
+      "total_rides": 1048769.0,
+      "rolling_average_7d": 982856.1428571428
+    },
+    {
+      "service_date": "2025-06-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 673762.0,
+      "rail_boardings": 467995.0,
+      "total_rides": 1141757.0,
+      "rolling_average_7d": 986218.0
+    },
+    {
+      "service_date": "2025-06-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 651138.0,
+      "rail_boardings": 439491.0,
+      "total_rides": 1090629.0,
+      "rolling_average_7d": 988843.0
+    },
+    {
+      "service_date": "2025-06-07T00:00:00.000",
+      "day_type": "A",
+      "bus": 477562.0,
+      "rail_boardings": 357317.0,
+      "total_rides": 834879.0,
+      "rolling_average_7d": 992955.7142857143
+    },
+    {
+      "service_date": "2025-06-08T00:00:00.000",
+      "day_type": "U",
+      "bus": 359710.0,
+      "rail_boardings": 273304.0,
+      "total_rides": 633014.0,
+      "rolling_average_7d": 993450.7142857143
+    },
+    {
+      "service_date": "2025-06-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 624412.0,
+      "rail_boardings": 403747.0,
+      "total_rides": 1028159.0,
+      "rolling_average_7d": 988922.7142857143
+    },
+    {
+      "service_date": "2025-06-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 655612.0,
+      "rail_boardings": 471254.0,
+      "total_rides": 1126866.0,
+      "rolling_average_7d": 986296.1428571428
+    },
+    {
+      "service_date": "2025-06-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 674938.0,
+      "rail_boardings": 468460.0,
+      "total_rides": 1143398.0,
+      "rolling_average_7d": 999814.5714285715
+    },
+    {
+      "service_date": "2025-06-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 655819.0,
+      "rail_boardings": 494741.0,
+      "total_rides": 1150560.0,
+      "rolling_average_7d": 1001072.1428571428
+    },
+    {
+      "service_date": "2025-06-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 564232.0,
+      "rail_boardings": 434661.0,
+      "total_rides": 998893.0,
+      "rolling_average_7d": 987967.0
+    },
+    {
+      "service_date": "2025-06-14T00:00:00.000",
+      "day_type": "A",
+      "bus": 457053.0,
+      "rail_boardings": 445477.0,
+      "total_rides": 902530.0,
+      "rolling_average_7d": 997631.4285714285
+    },
+    {
+      "service_date": "2025-06-15T00:00:00.000",
+      "day_type": "U",
+      "bus": 369158.0,
+      "rail_boardings": 279837.0,
+      "total_rides": 648995.0,
+      "rolling_average_7d": 999914.4285714285
+    },
+    {
+      "service_date": "2025-06-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 579527.0,
+      "rail_boardings": 387954.0,
+      "total_rides": 967481.0,
+      "rolling_average_7d": 991246.1428571428
+    },
+    {
+      "service_date": "2025-06-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 620233.0,
+      "rail_boardings": 475334.0,
+      "total_rides": 1095567.0,
+      "rolling_average_7d": 986774.8571428572
+    },
+    {
+      "service_date": "2025-06-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 549897.0,
+      "rail_boardings": 426656.0,
+      "total_rides": 976553.0,
+      "rolling_average_7d": 962939.8571428572
+    },
+    {
+      "service_date": "2025-06-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 539643.0,
+      "rail_boardings": 399059.0,
+      "total_rides": 938702.0,
+      "rolling_average_7d": 932674.4285714285
+    },
+    {
+      "service_date": "2025-06-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 589269.0,
+      "rail_boardings": 437543.0,
+      "total_rides": 1026812.0,
+      "rolling_average_7d": 936662.8571428572
+    },
+    {
+      "service_date": "2025-06-21T00:00:00.000",
+      "day_type": "A",
+      "bus": 473807.0,
+      "rail_boardings": 362564.0,
+      "total_rides": 836371.0,
+      "rolling_average_7d": 927211.5714285715
+    },
+    {
+      "service_date": "2025-06-22T00:00:00.000",
+      "day_type": "U",
+      "bus": 362280.0,
+      "rail_boardings": 272523.0,
+      "total_rides": 634803.0,
+      "rolling_average_7d": 925184.1428571428
+    },
+    {
+      "service_date": "2025-06-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 570365.0,
+      "rail_boardings": 380857.0,
+      "total_rides": 951222.0,
+      "rolling_average_7d": 922861.4285714285
+    },
+    {
+      "service_date": "2025-06-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 599119.0,
+      "rail_boardings": 433791.0,
+      "total_rides": 1032910.0,
+      "rolling_average_7d": 913910.4285714285
+    },
+    {
+      "service_date": "2025-06-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 625677.0,
+      "rail_boardings": 455201.0,
+      "total_rides": 1080878.0,
+      "rolling_average_7d": 928814.0
+    },
+    {
+      "service_date": "2025-06-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 614512.0,
+      "rail_boardings": 481722.0,
+      "total_rides": 1096234.0,
+      "rolling_average_7d": 951318.5714285715
+    },
+    {
+      "service_date": "2025-06-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 593324.0,
+      "rail_boardings": 428848.0,
+      "total_rides": 1022172.0,
+      "rolling_average_7d": 950655.7142857143
+    },
+    {
+      "service_date": "2025-06-28T00:00:00.000",
+      "day_type": "A",
+      "bus": 476323.0,
+      "rail_boardings": 347157.0,
+      "total_rides": 823480.0,
+      "rolling_average_7d": 948814.1428571428
+    },
+    {
+      "service_date": "2025-06-29T00:00:00.000",
+      "day_type": "U",
+      "bus": 357530.0,
+      "rail_boardings": 331024.0,
+      "total_rides": 688554.0,
+      "rolling_average_7d": 956492.8571428572
+    },
+    {
+      "service_date": "2025-06-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 590108.0,
+      "rail_boardings": 385554.0,
+      "total_rides": 975662.0,
+      "rolling_average_7d": 959984.2857142857
+    },
+    {
+      "service_date": "2025-07-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 652608.0,
+      "rail_boardings": 461740.0,
+      "total_rides": 1114348.0,
+      "rolling_average_7d": 971618.2857142857
+    },
+    {
+      "service_date": "2025-07-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 629630.0,
+      "rail_boardings": 448830.0,
+      "total_rides": 1078460.0,
+      "rolling_average_7d": 971272.8571428572
+    },
+    {
+      "service_date": "2025-07-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 609341.0,
+      "rail_boardings": 435512.0,
+      "total_rides": 1044853.0,
+      "rolling_average_7d": 963932.7142857143
+    },
+    {
+      "service_date": "2025-07-04T00:00:00.000",
+      "day_type": "U",
+      "bus": 366244.0,
+      "rail_boardings": 283915.0,
+      "total_rides": 650159.0,
+      "rolling_average_7d": 910788.0
+    },
+    {
+      "service_date": "2025-07-05T00:00:00.000",
+      "day_type": "A",
+      "bus": 430107.0,
+      "rail_boardings": 340772.0,
+      "total_rides": 770879.0,
+      "rolling_average_7d": 903273.5714285715
+    },
+    {
+      "service_date": "2025-07-06T00:00:00.000",
+      "day_type": "U",
+      "bus": 335927.0,
+      "rail_boardings": 270905.0,
+      "total_rides": 606832.0,
+      "rolling_average_7d": 891599.0
+    },
+    {
+      "service_date": "2025-07-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 600991.0,
+      "rail_boardings": 403250.0,
+      "total_rides": 1004241.0,
+      "rolling_average_7d": 895681.7142857143
+    },
+    {
+      "service_date": "2025-07-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 617880.0,
+      "rail_boardings": 447111.0,
+      "total_rides": 1064991.0,
+      "rolling_average_7d": 888630.7142857143
+    },
+    {
+      "service_date": "2025-07-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 628372.0,
+      "rail_boardings": 450426.0,
+      "total_rides": 1078798.0,
+      "rolling_average_7d": 888679.0
+    },
+    {
+      "service_date": "2025-07-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 634428.0,
+      "rail_boardings": 458530.0,
+      "total_rides": 1092958.0,
+      "rolling_average_7d": 895551.1428571428
+    },
+    {
+      "service_date": "2025-07-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 584818.0,
+      "rail_boardings": 412182.0,
+      "total_rides": 997000.0,
+      "rolling_average_7d": 945099.8571428572
+    },
+    {
+      "service_date": "2025-07-12T00:00:00.000",
+      "day_type": "A",
+      "bus": 470738.0,
+      "rail_boardings": 340047.0,
+      "total_rides": 810785.0,
+      "rolling_average_7d": 950800.7142857143
+    },
+    {
+      "service_date": "2025-07-13T00:00:00.000",
+      "day_type": "U",
+      "bus": 368882.0,
+      "rail_boardings": 269248.0,
+      "total_rides": 638130.0,
+      "rolling_average_7d": 955271.8571428572
+    },
+    {
+      "service_date": "2025-07-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 600622.0,
+      "rail_boardings": 393820.0,
+      "total_rides": 994442.0,
+      "rolling_average_7d": 953872.0
+    },
+    {
+      "service_date": "2025-07-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 636511.0,
+      "rail_boardings": 449385.0,
+      "total_rides": 1085896.0,
+      "rolling_average_7d": 956858.4285714285
+    },
+    {
+      "service_date": "2025-07-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 605163.0,
+      "rail_boardings": 443023.0,
+      "total_rides": 1048186.0,
+      "rolling_average_7d": 952485.2857142857
+    },
+    {
+      "service_date": "2025-07-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 621409.0,
+      "rail_boardings": 470736.0,
+      "total_rides": 1092145.0,
+      "rolling_average_7d": 952369.1428571428
+    },
+    {
+      "service_date": "2025-07-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 614017.0,
+      "rail_boardings": 471069.0,
+      "total_rides": 1085086.0,
+      "rolling_average_7d": 964952.8571428572
+    },
+    {
+      "service_date": "2025-07-19T00:00:00.000",
+      "day_type": "A",
+      "bus": 447221.0,
+      "rail_boardings": 362224.0,
+      "total_rides": 809445.0,
+      "rolling_average_7d": 964761.4285714285
+    },
+    {
+      "service_date": "2025-07-20T00:00:00.000",
+      "day_type": "U",
+      "bus": 362550.0,
+      "rail_boardings": 299545.0,
+      "total_rides": 662095.0,
+      "rolling_average_7d": 968185.0
+    },
+    {
+      "service_date": "2025-07-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 603611.0,
+      "rail_boardings": 431476.0,
+      "total_rides": 1035087.0,
+      "rolling_average_7d": 973991.4285714285
+    },
+    {
+      "service_date": "2025-07-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 634982.0,
+      "rail_boardings": 489994.0,
+      "total_rides": 1124976.0,
+      "rolling_average_7d": 979574.2857142857
+    },
+    {
+      "service_date": "2025-07-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 619156.0,
+      "rail_boardings": 477607.0,
+      "total_rides": 1096763.0,
+      "rolling_average_7d": 986513.8571428572
+    },
+    {
+      "service_date": "2025-07-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 571166.0,
+      "rail_boardings": 435051.0,
+      "total_rides": 1006217.0,
+      "rolling_average_7d": 974238.4285714285
+    },
+    {
+      "service_date": "2025-07-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 553138.0,
+      "rail_boardings": 420908.0,
+      "total_rides": 974046.0,
+      "rolling_average_7d": 958375.5714285715
+    },
+    {
+      "service_date": "2025-07-26T00:00:00.000",
+      "day_type": "A",
+      "bus": 443346.0,
+      "rail_boardings": 374114.0,
+      "total_rides": 817460.0,
+      "rolling_average_7d": 959520.5714285715
+    },
+    {
+      "service_date": "2025-07-27T00:00:00.000",
+      "day_type": "U",
+      "bus": 367565.0,
+      "rail_boardings": 288486.0,
+      "total_rides": 656051.0,
+      "rolling_average_7d": 958657.1428571428
+    },
+    {
+      "service_date": "2025-07-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 563527.0,
+      "rail_boardings": 389510.0,
+      "total_rides": 953037.0,
+      "rolling_average_7d": 946935.7142857143
+    },
+    {
+      "service_date": "2025-07-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 613764.0,
+      "rail_boardings": 458261.0,
+      "total_rides": 1072025.0,
+      "rolling_average_7d": 939371.2857142857
+    },
+    {
+      "service_date": "2025-07-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 581194.0,
+      "rail_boardings": 477096.0,
+      "total_rides": 1058290.0,
+      "rolling_average_7d": 933875.1428571428
+    },
+    {
+      "service_date": "2025-07-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 620788.0,
+      "rail_boardings": 554424.0,
+      "total_rides": 1175212.0,
+      "rolling_average_7d": 958017.2857142857
+    },
+    {
+      "service_date": "2025-08-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 626124.0,
+      "rail_boardings": 542964.0,
+      "total_rides": 1169088.0,
+      "rolling_average_7d": 985880.4285714285
+    },
+    {
+      "service_date": "2025-08-02T00:00:00.000",
+      "day_type": "A",
+      "bus": 481035.0,
+      "rail_boardings": 464316.0,
+      "total_rides": 945351.0,
+      "rolling_average_7d": 1004150.5714285715
+    },
+    {
+      "service_date": "2025-08-03T00:00:00.000",
+      "day_type": "U",
+      "bus": 373971.0,
+      "rail_boardings": 377437.0,
+      "total_rides": 751408.0,
+      "rolling_average_7d": 1017773.0
+    },
+    {
+      "service_date": "2025-08-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 583320.0,
+      "rail_boardings": 446058.0,
+      "total_rides": 1029378.0,
+      "rolling_average_7d": 1028678.8571428572
+    },
+    {
+      "service_date": "2025-08-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 618490.0,
+      "rail_boardings": 483403.0,
+      "total_rides": 1101893.0,
+      "rolling_average_7d": 1032945.7142857143
+    },
+    {
+      "service_date": "2025-08-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 615389.0,
+      "rail_boardings": 481335.0,
+      "total_rides": 1096724.0,
+      "rolling_average_7d": 1038436.2857142857
+    },
+    {
+      "service_date": "2025-08-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 612000.0,
+      "rail_boardings": 464756.0,
+      "total_rides": 1076756.0,
+      "rolling_average_7d": 1024371.1428571428
+    },
+    {
+      "service_date": "2025-08-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 587536.0,
+      "rail_boardings": 429046.0,
+      "total_rides": 1016582.0,
+      "rolling_average_7d": 1002584.5714285715
+    },
+    {
+      "service_date": "2025-08-09T00:00:00.000",
+      "day_type": "A",
+      "bus": 470881.0,
+      "rail_boardings": 351031.0,
+      "total_rides": 821912.0,
+      "rolling_average_7d": 984950.4285714285
+    },
+    {
+      "service_date": "2025-08-10T00:00:00.000",
+      "day_type": "U",
+      "bus": 365955.0,
+      "rail_boardings": 281154.0,
+      "total_rides": 647109.0,
+      "rolling_average_7d": 970050.5714285715
+    },
+    {
+      "service_date": "2025-08-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 569387.0,
+      "rail_boardings": 398640.0,
+      "total_rides": 968027.0,
+      "rolling_average_7d": 961286.1428571428
+    },
+    {
+      "service_date": "2025-08-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 549342.0,
+      "rail_boardings": 427909.0,
+      "total_rides": 977251.0,
+      "rolling_average_7d": 943480.1428571428
+    },
+    {
+      "service_date": "2025-08-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 623327.0,
+      "rail_boardings": 456084.0,
+      "total_rides": 1079411.0,
+      "rolling_average_7d": 941006.8571428572
+    },
+    {
+      "service_date": "2025-08-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 618844.0,
+      "rail_boardings": 452988.0,
+      "total_rides": 1071832.0,
+      "rolling_average_7d": 940303.4285714285
+    },
+    {
+      "service_date": "2025-08-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 602922.0,
+      "rail_boardings": 462943.0,
+      "total_rides": 1065865.0,
+      "rolling_average_7d": 947343.8571428572
+    },
+    {
+      "service_date": "2025-08-16T00:00:00.000",
+      "day_type": "A",
+      "bus": 456717.0,
+      "rail_boardings": 385469.0,
+      "total_rides": 842186.0,
+      "rolling_average_7d": 950240.1428571428
+    },
+    {
+      "service_date": "2025-08-17T00:00:00.000",
+      "day_type": "U",
+      "bus": 377116.0,
+      "rail_boardings": 316775.0,
+      "total_rides": 693891.0,
+      "rolling_average_7d": 956923.2857142857
+    },
+    {
+      "service_date": "2025-08-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 617598.0,
+      "rail_boardings": 410564.0,
+      "total_rides": 1028162.0,
+      "rolling_average_7d": 965514.0
+    },
+    {
+      "service_date": "2025-08-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 664674.0,
+      "rail_boardings": 481760.0,
+      "total_rides": 1146434.0,
+      "rolling_average_7d": 989683.0
+    },
+    {
+      "service_date": "2025-08-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 686934.0,
+      "rail_boardings": 482944.0,
+      "total_rides": 1169878.0,
+      "rolling_average_7d": 1002606.8571428572
+    },
+    {
+      "service_date": "2025-08-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 681067.0,
+      "rail_boardings": 492067.0,
+      "total_rides": 1173134.0,
+      "rolling_average_7d": 1017078.5714285715
+    },
+    {
+      "service_date": "2025-08-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 660294.0,
+      "rail_boardings": 426849.0,
+      "total_rides": 1087143.0,
+      "rolling_average_7d": 1020118.2857142857
+    },
+    {
+      "service_date": "2025-08-23T00:00:00.000",
+      "day_type": "A",
+      "bus": 471307.0,
+      "rail_boardings": 341375.0,
+      "total_rides": 812682.0,
+      "rolling_average_7d": 1015903.4285714285
+    },
+    {
+      "service_date": "2025-08-24T00:00:00.000",
+      "day_type": "U",
+      "bus": 365984.0,
+      "rail_boardings": 271530.0,
+      "total_rides": 637514.0,
+      "rolling_average_7d": 1007849.5714285715
+    },
+    {
+      "service_date": "2025-08-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 670572.0,
+      "rail_boardings": 417570.0,
+      "total_rides": 1088142.0,
+      "rolling_average_7d": 1016418.1428571428
+    },
+    {
+      "service_date": "2025-08-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 695460.0,
+      "rail_boardings": 477392.0,
+      "total_rides": 1172852.0,
+      "rolling_average_7d": 1020192.1428571428
+    },
+    {
+      "service_date": "2025-08-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 692677.0,
+      "rail_boardings": 484758.0,
+      "total_rides": 1177435.0,
+      "rolling_average_7d": 1021271.7142857143
+    },
+    {
+      "service_date": "2025-08-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 686401.0,
+      "rail_boardings": 533270.0,
+      "total_rides": 1219671.0,
+      "rolling_average_7d": 1027919.8571428572
+    },
+    {
+      "service_date": "2025-08-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 680405.0,
+      "rail_boardings": 489248.0,
+      "total_rides": 1169653.0,
+      "rolling_average_7d": 1039707.0
+    },
+    {
+      "service_date": "2025-08-30T00:00:00.000",
+      "day_type": "A",
+      "bus": 465234.0,
+      "rail_boardings": 401830.0,
+      "total_rides": 867064.0,
+      "rolling_average_7d": 1047475.8571428572
+    },
+    {
+      "service_date": "2025-08-31T00:00:00.000",
+      "day_type": "U",
+      "bus": 385506.0,
+      "rail_boardings": 353202.0,
+      "total_rides": 738708.0,
+      "rolling_average_7d": 1061932.142857143
+    },
+    {
+      "service_date": "2025-09-01T00:00:00.000",
+      "day_type": "U",
+      "bus": 372225.0,
+      "rail_boardings": 300248.0,
+      "total_rides": 672473.0,
+      "rolling_average_7d": 1002550.8571428572
+    },
+    {
+      "service_date": "2025-09-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 695791.0,
+      "rail_boardings": 481324.0,
+      "total_rides": 1177115.0,
+      "rolling_average_7d": 1003159.8571428572
+    },
+    {
+      "service_date": "2025-09-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 689262.0,
+      "rail_boardings": 482621.0,
+      "total_rides": 1171883.0,
+      "rolling_average_7d": 1002366.7142857143
+    },
+    {
+      "service_date": "2025-09-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 700645.0,
+      "rail_boardings": 485295.0,
+      "total_rides": 1185940.0,
+      "rolling_average_7d": 997548.0
+    },
+    {
+      "service_date": "2025-09-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 673122.0,
+      "rail_boardings": 469348.0,
+      "total_rides": 1142470.0,
+      "rolling_average_7d": 993664.7142857143
+    },
+    {
+      "service_date": "2025-09-06T00:00:00.000",
+      "day_type": "A",
+      "bus": 455956.0,
+      "rail_boardings": 382576.0,
+      "total_rides": 838532.0,
+      "rolling_average_7d": 989588.7142857143
+    },
+    {
+      "service_date": "2025-09-07T00:00:00.000",
+      "day_type": "U",
+      "bus": 357064.0,
+      "rail_boardings": 299209.0,
+      "total_rides": 656273.0,
+      "rolling_average_7d": 977812.2857142857
+    },
+    {
+      "service_date": "2025-09-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 664938.0,
+      "rail_boardings": 439636.0,
+      "total_rides": 1104574.0,
+      "rolling_average_7d": 1039541.0
+    },
+    {
+      "service_date": "2025-09-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 687645.0,
+      "rail_boardings": 485475.0,
+      "total_rides": 1173120.0,
+      "rolling_average_7d": 1038970.2857142857
+    },
+    {
+      "service_date": "2025-09-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 695318.0,
+      "rail_boardings": 495963.0,
+      "total_rides": 1191281.0,
+      "rolling_average_7d": 1041741.4285714285
+    },
+    {
+      "service_date": "2025-09-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 681871.0,
+      "rail_boardings": 500765.0,
+      "total_rides": 1182636.0,
+      "rolling_average_7d": 1041269.4285714285
+    },
+    {
+      "service_date": "2025-09-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 666234.0,
+      "rail_boardings": 462050.0,
+      "total_rides": 1128284.0,
+      "rolling_average_7d": 1039242.8571428572
+    },
+    {
+      "service_date": "2025-09-13T00:00:00.000",
+      "day_type": "A",
+      "bus": 421457.0,
+      "rail_boardings": 332671.0,
+      "total_rides": 754128.0,
+      "rolling_average_7d": 1027185.1428571428
+    },
+    {
+      "service_date": "2025-09-14T00:00:00.000",
+      "day_type": "U",
+      "bus": 350343.0,
+      "rail_boardings": 276301.0,
+      "total_rides": 626644.0,
+      "rolling_average_7d": 1022952.4285714285
+    },
+    {
+      "service_date": "2025-09-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 664100.0,
+      "rail_boardings": 446019.0,
+      "total_rides": 1110119.0,
+      "rolling_average_7d": 1023744.5714285715
+    },
+    {
+      "service_date": "2025-09-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 688942.0,
+      "rail_boardings": 496717.0,
+      "total_rides": 1185659.0,
+      "rolling_average_7d": 1025535.8571428572
+    },
+    {
+      "service_date": "2025-09-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 694761.0,
+      "rail_boardings": 500989.0,
+      "total_rides": 1195750.0,
+      "rolling_average_7d": 1026174.2857142857
+    },
+    {
+      "service_date": "2025-09-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 694285.0,
+      "rail_boardings": 512054.0,
+      "total_rides": 1206339.0,
+      "rolling_average_7d": 1029560.4285714285
+    },
+    {
+      "service_date": "2025-09-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 674243.0,
+      "rail_boardings": 485407.0,
+      "total_rides": 1159650.0,
+      "rolling_average_7d": 1034041.2857142857
+    },
+    {
+      "service_date": "2025-09-20T00:00:00.000",
+      "day_type": "A",
+      "bus": 445319.0,
+      "rail_boardings": 363583.0,
+      "total_rides": 808902.0,
+      "rolling_average_7d": 1041866.1428571428
+    },
+    {
+      "service_date": "2025-09-21T00:00:00.000",
+      "day_type": "U",
+      "bus": 357015.0,
+      "rail_boardings": 291395.0,
+      "total_rides": 648410.0,
+      "rolling_average_7d": 1044975.5714285715
+    },
+    {
+      "service_date": "2025-09-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 666516.0,
+      "rail_boardings": 442484.0,
+      "total_rides": 1109000.0,
+      "rolling_average_7d": 1044815.7142857143
+    },
+    {
+      "service_date": "2025-09-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 673622.0,
+      "rail_boardings": 498011.0,
+      "total_rides": 1171633.0,
+      "rolling_average_7d": 1042812.0
+    },
+    {
+      "service_date": "2025-09-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 700959.0,
+      "rail_boardings": 512386.0,
+      "total_rides": 1213345.0,
+      "rolling_average_7d": 1045325.5714285715
+    },
+    {
+      "service_date": "2025-09-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 695282.0,
+      "rail_boardings": 530667.0,
+      "total_rides": 1225949.0,
+      "rolling_average_7d": 1048127.0
+    },
+    {
+      "service_date": "2025-09-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 614351.0,
+      "rail_boardings": 462671.0,
+      "total_rides": 1077022.0,
+      "rolling_average_7d": 1036323.0
+    },
+    {
+      "service_date": "2025-09-27T00:00:00.000",
+      "day_type": "A",
+      "bus": 468349.0,
+      "rail_boardings": 367693.0,
+      "total_rides": 836042.0,
+      "rolling_average_7d": 1040200.1428571428
+    },
+    {
+      "service_date": "2025-09-28T00:00:00.000",
+      "day_type": "U",
+      "bus": 355700.0,
+      "rail_boardings": 279298.0,
+      "total_rides": 634998.0,
+      "rolling_average_7d": 1038284.1428571428
+    },
+    {
+      "service_date": "2025-09-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 657970.0,
+      "rail_boardings": 433247.0,
+      "total_rides": 1091217.0,
+      "rolling_average_7d": 1035743.7142857143
+    },
+    {
+      "service_date": "2025-09-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 690052.0,
+      "rail_boardings": 508219.0,
+      "total_rides": 1198271.0,
+      "rolling_average_7d": 1039549.1428571428
+    },
+    {
+      "service_date": "2025-10-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 714964.0,
+      "rail_boardings": 514769.0,
+      "total_rides": 1229733.0,
+      "rolling_average_7d": 1041890.2857142857
+    },
+    {
+      "service_date": "2025-10-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 690196.0,
+      "rail_boardings": 504178.0,
+      "total_rides": 1194374.0,
+      "rolling_average_7d": 1037379.5714285715
+    },
+    {
+      "service_date": "2025-10-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 675874.0,
+      "rail_boardings": 439014.0,
+      "total_rides": 1114888.0,
+      "rolling_average_7d": 1042789.0
+    },
+    {
+      "service_date": "2025-10-04T00:00:00.000",
+      "day_type": "A",
+      "bus": 462810.0,
+      "rail_boardings": 338258.0,
+      "total_rides": 801068.0,
+      "rolling_average_7d": 1037792.7142857143
+    },
+    {
+      "service_date": "2025-10-05T00:00:00.000",
+      "day_type": "U",
+      "bus": 353373.0,
+      "rail_boardings": 262217.0,
+      "total_rides": 615590.0,
+      "rolling_average_7d": 1035020.1428571428
+    },
+    {
+      "service_date": "2025-10-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 654948.0,
+      "rail_boardings": 423223.0,
+      "total_rides": 1078171.0,
+      "rolling_average_7d": 1033156.4285714285
+    },
+    {
+      "service_date": "2025-10-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 656234.0,
+      "rail_boardings": 469717.0,
+      "total_rides": 1125951.0,
+      "rolling_average_7d": 1022825.0
+    },
+    {
+      "service_date": "2025-10-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 699779.0,
+      "rail_boardings": 519969.0,
+      "total_rides": 1219748.0,
+      "rolling_average_7d": 1021398.5714285715
+    },
+    {
+      "service_date": "2025-10-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 689150.0,
+      "rail_boardings": 541178.0,
+      "total_rides": 1230328.0,
+      "rolling_average_7d": 1026534.8571428572
+    },
+    {
+      "service_date": "2025-10-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 659950.0,
+      "rail_boardings": 490395.0,
+      "total_rides": 1150345.0,
+      "rolling_average_7d": 1031600.1428571428
+    },
+    {
+      "service_date": "2025-10-11T00:00:00.000",
+      "day_type": "A",
+      "bus": 453038.0,
+      "rail_boardings": 413476.0,
+      "total_rides": 866514.0,
+      "rolling_average_7d": 1040949.5714285715
+    },
+    {
+      "service_date": "2025-10-12T00:00:00.000",
+      "day_type": "U",
+      "bus": 313881.0,
+      "rail_boardings": 557727.0,
+      "total_rides": 871608.0,
+      "rolling_average_7d": 1077523.5714285714
+    },
+    {
+      "service_date": "2025-10-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 515678.0,
+      "rail_boardings": 414376.0,
+      "total_rides": 930054.0,
+      "rolling_average_7d": 1056364.0
+    },
+    {
+      "service_date": "2025-10-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 692393.0,
+      "rail_boardings": 497278.0,
+      "total_rides": 1189671.0,
+      "rolling_average_7d": 1065466.857142857
+    },
+    {
+      "service_date": "2025-10-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 666759.0,
+      "rail_boardings": 487505.0,
+      "total_rides": 1154264.0,
+      "rolling_average_7d": 1056112.0
+    },
+    {
+      "service_date": "2025-10-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 688365.0,
+      "rail_boardings": 503737.0,
+      "total_rides": 1192102.0,
+      "rolling_average_7d": 1050651.142857143
+    },
+    {
+      "service_date": "2025-10-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 649764.0,
+      "rail_boardings": 449582.0,
+      "total_rides": 1099346.0,
+      "rolling_average_7d": 1043365.5714285715
+    },
+    {
+      "service_date": "2025-10-18T00:00:00.000",
+      "day_type": "A",
+      "bus": 439065.0,
+      "rail_boardings": 452626.0,
+      "total_rides": 891691.0,
+      "rolling_average_7d": 1046962.2857142857
+    },
+    {
+      "service_date": "2025-10-19T00:00:00.000",
+      "day_type": "U",
+      "bus": 329001.0,
+      "rail_boardings": 253066.0,
+      "total_rides": 582067.0,
+      "rolling_average_7d": 1005599.2857142857
+    },
+    {
+      "service_date": "2025-10-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 651558.0,
+      "rail_boardings": 432409.0,
+      "total_rides": 1083967.0,
+      "rolling_average_7d": 1027586.8571428572
+    },
+    {
+      "service_date": "2025-10-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 654157.0,
+      "rail_boardings": 476293.0,
+      "total_rides": 1130450.0,
+      "rolling_average_7d": 1019126.7142857143
+    },
+    {
+      "service_date": "2025-10-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 656744.0,
+      "rail_boardings": 473974.0,
+      "total_rides": 1130718.0,
+      "rolling_average_7d": 1015763.0
+    },
+    {
+      "service_date": "2025-10-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 663146.0,
+      "rail_boardings": 485055.0,
+      "total_rides": 1148201.0,
+      "rolling_average_7d": 1009491.4285714285
+    },
+    {
+      "service_date": "2025-10-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 630708.0,
+      "rail_boardings": 425786.0,
+      "total_rides": 1056494.0,
+      "rolling_average_7d": 1003369.7142857143
+    },
+    {
+      "service_date": "2025-10-25T00:00:00.000",
+      "day_type": "A",
+      "bus": 443149.0,
+      "rail_boardings": 291053.0,
+      "total_rides": 734202.0,
+      "rolling_average_7d": 980871.2857142857
+    },
+    {
+      "service_date": "2025-10-26T00:00:00.000",
+      "day_type": "U",
+      "bus": 355126.0,
+      "rail_boardings": 222282.0,
+      "total_rides": 577408.0,
+      "rolling_average_7d": 980205.7142857143
+    },
+    {
+      "service_date": "2025-10-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 589139.0,
+      "rail_boardings": 406067.0,
+      "total_rides": 995206.0,
+      "rolling_average_7d": 967525.5714285715
+    },
+    {
+      "service_date": "2025-10-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 674402.0,
+      "rail_boardings": 474511.0,
+      "total_rides": 1148913.0,
+      "rolling_average_7d": 970163.1428571428
+    },
+    {
+      "service_date": "2025-10-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 681235.0,
+      "rail_boardings": 477620.0,
+      "total_rides": 1158855.0,
+      "rolling_average_7d": 974182.7142857143
+    },
+    {
+      "service_date": "2025-10-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 685819.0,
+      "rail_boardings": 486576.0,
+      "total_rides": 1172395.0,
+      "rolling_average_7d": 977639.0
+    },
+    {
+      "service_date": "2025-10-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 664859.0,
+      "rail_boardings": 442259.0,
+      "total_rides": 1107118.0,
+      "rolling_average_7d": 984871.0
+    },
+    {
+      "service_date": "2025-11-01T00:00:00.000",
+      "day_type": "A",
+      "bus": 425503.0,
+      "rail_boardings": 327617.0,
+      "total_rides": 753120.0,
+      "rolling_average_7d": 987573.5714285715
+    },
+    {
+      "service_date": "2025-11-02T00:00:00.000",
+      "day_type": "U",
+      "bus": 331012.0,
+      "rail_boardings": 261115.0,
+      "total_rides": 592127.0,
+      "rolling_average_7d": 989676.2857142857
+    },
+    {
+      "service_date": "2025-11-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 665548.0,
+      "rail_boardings": 419744.0,
+      "total_rides": 1085292.0,
+      "rolling_average_7d": 1002545.7142857143
+    },
+    {
+      "service_date": "2025-11-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 673038.0,
+      "rail_boardings": 464993.0,
+      "total_rides": 1138031.0,
+      "rolling_average_7d": 1000991.1428571428
+    },
+    {
+      "service_date": "2025-11-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 673357.0,
+      "rail_boardings": 466429.0,
+      "total_rides": 1139786.0,
+      "rolling_average_7d": 998267.0
+    },
+    {
+      "service_date": "2025-11-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 664491.0,
+      "rail_boardings": 471201.0,
+      "total_rides": 1135692.0,
+      "rolling_average_7d": 993023.7142857143
+    },
+    {
+      "service_date": "2025-11-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 650979.0,
+      "rail_boardings": 430612.0,
+      "total_rides": 1081591.0,
+      "rolling_average_7d": 989377.0
+    },
+    {
+      "service_date": "2025-11-08T00:00:00.000",
+      "day_type": "A",
+      "bus": 414216.0,
+      "rail_boardings": 305025.0,
+      "total_rides": 719241.0,
+      "rolling_average_7d": 984537.1428571428
+    },
+    {
+      "service_date": "2025-11-09T00:00:00.000",
+      "day_type": "U",
+      "bus": 302361.0,
+      "rail_boardings": 219909.0,
+      "total_rides": 522270.0,
+      "rolling_average_7d": 974557.5714285715
+    },
+    {
+      "service_date": "2025-11-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 552135.0,
+      "rail_boardings": 376616.0,
+      "total_rides": 928751.0,
+      "rolling_average_7d": 952194.5714285715
+    },
+    {
+      "service_date": "2025-11-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 513364.0,
+      "rail_boardings": 395231.0,
+      "total_rides": 908595.0,
+      "rolling_average_7d": 919418.0
+    },
+    {
+      "service_date": "2025-11-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 670402.0,
+      "rail_boardings": 473816.0,
+      "total_rides": 1144218.0,
+      "rolling_average_7d": 920051.1428571428
+    },
+    {
+      "service_date": "2025-11-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 664732.0,
+      "rail_boardings": 476480.0,
+      "total_rides": 1141212.0,
+      "rolling_average_7d": 920839.7142857143
+    },
+    {
+      "service_date": "2025-11-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 643173.0,
+      "rail_boardings": 426729.0,
+      "total_rides": 1069902.0,
+      "rolling_average_7d": 919169.8571428572
+    },
+    {
+      "service_date": "2025-11-15T00:00:00.000",
+      "day_type": "A",
+      "bus": 447945.0,
+      "rail_boardings": 354593.0,
+      "total_rides": 802538.0,
+      "rolling_average_7d": 931069.4285714285
+    },
+    {
+      "service_date": "2025-11-16T00:00:00.000",
+      "day_type": "U",
+      "bus": 332419.0,
+      "rail_boardings": 233468.0,
+      "total_rides": 565887.0,
+      "rolling_average_7d": 937300.4285714285
+    },
+    {
+      "service_date": "2025-11-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 640950.0,
+      "rail_boardings": 415711.0,
+      "total_rides": 1056661.0,
+      "rolling_average_7d": 955573.2857142857
+    },
+    {
+      "service_date": "2025-11-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 636407.0,
+      "rail_boardings": 464060.0,
+      "total_rides": 1100467.0,
+      "rolling_average_7d": 982983.5714285715
+    },
+    {
+      "service_date": "2025-11-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 662191.0,
+      "rail_boardings": 468628.0,
+      "total_rides": 1130819.0,
+      "rolling_average_7d": 981069.4285714285
+    },
+    {
+      "service_date": "2025-11-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 661684.0,
+      "rail_boardings": 467611.0,
+      "total_rides": 1129295.0,
+      "rolling_average_7d": 979367.0
+    },
+    {
+      "service_date": "2025-11-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 640965.0,
+      "rail_boardings": 468037.0,
+      "total_rides": 1109002.0,
+      "rolling_average_7d": 984952.7142857143
+    },
+    {
+      "service_date": "2025-11-22T00:00:00.000",
+      "day_type": "A",
+      "bus": 412805.0,
+      "rail_boardings": 363456.0,
+      "total_rides": 776261.0,
+      "rolling_average_7d": 981198.8571428572
+    },
+    {
+      "service_date": "2025-11-23T00:00:00.000",
+      "day_type": "U",
+      "bus": 339913.0,
+      "rail_boardings": 247351.0,
+      "total_rides": 587264.0,
+      "rolling_average_7d": 984252.7142857143
+    },
+    {
+      "service_date": "2025-11-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 550755.0,
+      "rail_boardings": 381922.0,
+      "total_rides": 932677.0,
+      "rolling_average_7d": 966540.7142857143
+    },
+    {
+      "service_date": "2025-11-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 550524.0,
+      "rail_boardings": 387745.0,
+      "total_rides": 938269.0,
+      "rolling_average_7d": 943369.5714285715
+    },
+    {
+      "service_date": "2025-11-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 465776.0,
+      "rail_boardings": 309035.0,
+      "total_rides": 774811.0,
+      "rolling_average_7d": 892511.2857142857
+    },
+    {
+      "service_date": "2025-11-27T00:00:00.000",
+      "day_type": "U",
+      "bus": 212762.0,
+      "rail_boardings": 132098.0,
+      "total_rides": 344860.0,
+      "rolling_average_7d": 780449.1428571428
+    },
+    {
+      "service_date": "2025-11-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 389505.0,
+      "rail_boardings": 249231.0,
+      "total_rides": 638736.0,
+      "rolling_average_7d": 713268.2857142857
+    },
+    {
+      "service_date": "2025-11-29T00:00:00.000",
+      "day_type": "A",
+      "bus": 280784.0,
+      "rail_boardings": 211288.0,
+      "total_rides": 492072.0,
+      "rolling_average_7d": 672669.8571428572
+    },
+    {
+      "service_date": "2025-11-30T00:00:00.000",
+      "day_type": "U",
+      "bus": 271575.0,
+      "rail_boardings": 188988.0,
+      "total_rides": 460563.0,
+      "rolling_average_7d": 654569.7142857143
+    },
+    {
+      "service_date": "2025-12-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 604355.0,
+      "rail_boardings": 381325.0,
+      "total_rides": 985680.0,
+      "rolling_average_7d": 662141.5714285715
+    },
+    {
+      "service_date": "2025-12-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 629538.0,
+      "rail_boardings": 440785.0,
+      "total_rides": 1070323.0,
+      "rolling_average_7d": 681006.4285714285
+    },
+    {
+      "service_date": "2025-12-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 648760.0,
+      "rail_boardings": 452833.0,
+      "total_rides": 1101593.0,
+      "rolling_average_7d": 727689.5714285715
+    },
+    {
+      "service_date": "2025-12-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 582248.0,
+      "rail_boardings": 424985.0,
+      "total_rides": 1007233.0,
+      "rolling_average_7d": 822314.2857142857
+    },
+    {
+      "service_date": "2025-12-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 596002.0,
+      "rail_boardings": 394923.0,
+      "total_rides": 990925.0,
+      "rolling_average_7d": 872627.0
+    },
+    {
+      "service_date": "2025-12-06T00:00:00.000",
+      "day_type": "A",
+      "bus": 349457.0,
+      "rail_boardings": 310919.0,
+      "total_rides": 660376.0,
+      "rolling_average_7d": 896670.4285714285
+    },
+    {
+      "service_date": "2025-12-07T00:00:00.000",
+      "day_type": "U",
+      "bus": 295921.0,
+      "rail_boardings": 218452.0,
+      "total_rides": 514373.0,
+      "rolling_average_7d": 904357.5714285715
+    },
+    {
+      "service_date": "2025-12-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 603721.0,
+      "rail_boardings": 379510.0,
+      "total_rides": 983231.0,
+      "rolling_average_7d": 904007.7142857143
+    },
+    {
+      "service_date": "2025-12-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 636800.0,
+      "rail_boardings": 438491.0,
+      "total_rides": 1075291.0,
+      "rolling_average_7d": 904717.4285714285
+    },
+    {
+      "service_date": "2025-12-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 637423.0,
+      "rail_boardings": 434547.0,
+      "total_rides": 1071970.0,
+      "rolling_average_7d": 900485.5714285715
+    },
+    {
+      "service_date": "2025-12-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 629716.0,
+      "rail_boardings": 439175.0,
+      "total_rides": 1068891.0,
+      "rolling_average_7d": 909293.8571428572
+    },
+    {
+      "service_date": "2025-12-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 603670.0,
+      "rail_boardings": 396009.0,
+      "total_rides": 999679.0,
+      "rolling_average_7d": 910544.4285714285
+    },
+    {
+      "service_date": "2025-12-13T00:00:00.000",
+      "day_type": "A",
+      "bus": 347547.0,
+      "rail_boardings": 258582.0,
+      "total_rides": 606129.0,
+      "rolling_average_7d": 902794.8571428572
+    },
+    {
+      "service_date": "2025-12-14T00:00:00.000",
+      "day_type": "U",
+      "bus": 252339.0,
+      "rail_boardings": 180692.0,
+      "total_rides": 433031.0,
+      "rolling_average_7d": 891174.5714285715
+    },
+    {
+      "service_date": "2025-12-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 541081.0,
+      "rail_boardings": 336188.0,
+      "total_rides": 877269.0,
+      "rolling_average_7d": 876037.1428571428
+    },
+    {
+      "service_date": "2025-12-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 615002.0,
+      "rail_boardings": 411424.0,
+      "total_rides": 1026426.0,
+      "rolling_average_7d": 869056.4285714285
+    },
+    {
+      "service_date": "2025-12-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 636688.0,
+      "rail_boardings": 423583.0,
+      "total_rides": 1060271.0,
+      "rolling_average_7d": 867385.1428571428
+    },
+    {
+      "service_date": "2025-12-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 582363.0,
+      "rail_boardings": 396000.0,
+      "total_rides": 978363.0,
+      "rolling_average_7d": 854452.5714285715
+    },
+    {
+      "service_date": "2025-12-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 546060.0,
+      "rail_boardings": 345835.0,
+      "total_rides": 891895.0,
+      "rolling_average_7d": 839054.8571428572
+    },
+    {
+      "service_date": "2025-12-20T00:00:00.000",
+      "day_type": "A",
+      "bus": 396429.0,
+      "rail_boardings": 282597.0,
+      "total_rides": 679026.0,
+      "rolling_average_7d": 849468.7142857143
+    },
+    {
+      "service_date": "2025-12-21T00:00:00.000",
+      "day_type": "U",
+      "bus": 312184.0,
+      "rail_boardings": 206150.0,
+      "total_rides": 518334.0,
+      "rolling_average_7d": 861654.8571428572
+    },
+    {
+      "service_date": "2025-12-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 488902.0,
+      "rail_boardings": 307963.0,
+      "total_rides": 796865.0,
+      "rolling_average_7d": 850168.5714285715
+    },
+    {
+      "service_date": "2025-12-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 504239.0,
+      "rail_boardings": 308285.0,
+      "total_rides": 812524.0,
+      "rolling_average_7d": 819611.1428571428
+    },
+    {
+      "service_date": "2025-12-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 392531.0,
+      "rail_boardings": 200188.0,
+      "total_rides": 592719.0,
+      "rolling_average_7d": 752818.0
+    },
+    {
+      "service_date": "2025-12-25T00:00:00.000",
+      "day_type": "U",
+      "bus": 184004.0,
+      "rail_boardings": 97129.0,
+      "total_rides": 281133.0,
+      "rolling_average_7d": 653213.7142857143
+    },
+    {
+      "service_date": "2025-12-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 404406.0,
+      "rail_boardings": 225567.0,
+      "total_rides": 629973.0,
+      "rolling_average_7d": 615796.2857142857
+    },
+    {
+      "service_date": "2025-12-27T00:00:00.000",
+      "day_type": "A",
+      "bus": 365180.0,
+      "rail_boardings": 220383.0,
+      "total_rides": 585563.0,
+      "rolling_average_7d": 602444.4285714285
+    },
+    {
+      "service_date": "2025-12-28T00:00:00.000",
+      "day_type": "U",
+      "bus": 260640.0,
+      "rail_boardings": 162803.0,
+      "total_rides": 423443.0,
+      "rolling_average_7d": 588888.5714285715
+    },
+    {
+      "service_date": "2025-12-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 411259.0,
+      "rail_boardings": 263237.0,
+      "total_rides": 674496.0,
+      "rolling_average_7d": 571407.2857142857
+    },
+    {
+      "service_date": "2025-12-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 448472.0,
+      "rail_boardings": 290152.0,
+      "total_rides": 738624.0,
+      "rolling_average_7d": 560850.1428571428
+    },
+    {
+      "service_date": "2025-12-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 449613.0,
+      "rail_boardings": 289944.0,
+      "total_rides": 739557.0,
+      "rolling_average_7d": 581827.0
+    },
+    {
+      "service_date": "2026-01-01T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-02T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-03T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-04T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-05T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-06T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-07T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-08T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-09T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-10T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-11T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-12T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-13T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-14T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-15T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-16T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-17T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-18T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-19T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-20T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-21T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-22T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-23T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-24T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-25T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-26T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-27T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-28T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-29T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-30T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-01-31T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-01T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-02T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-03T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-04T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-05T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-06T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-07T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-08T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-09T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-10T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-11T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-12T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-13T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-14T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-15T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-16T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-17T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-18T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-19T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-20T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-21T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-22T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-23T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-24T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-25T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-26T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-27T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-02-28T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-01T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-02T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-03T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-04T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-05T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-06T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-07T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-08T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-09T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-10T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-11T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-12T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-13T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-14T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-15T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-16T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-17T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-18T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-19T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-20T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-21T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-22T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-23T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-24T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-25T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-26T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-27T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-28T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-29T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-30T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-03-31T00:00:00.000",
+      "day_type": null,
+      "bus": null,
+      "rail_boardings": null,
+      "total_rides": null,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 684531.0,
+      "rail_boardings": 451016.0,
+      "total_rides": 1135547.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 620278.0,
+      "rail_boardings": 419466.0,
+      "total_rides": 1039744.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 590346.0,
+      "rail_boardings": 379889.0,
+      "total_rides": 970235.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-04T00:00:00.000",
+      "day_type": "A",
+      "bus": 426509.0,
+      "rail_boardings": 278404.0,
+      "total_rides": 704913.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-05T00:00:00.000",
+      "day_type": "U",
+      "bus": 334625.0,
+      "rail_boardings": 207280.0,
+      "total_rides": 541905.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 652271.0,
+      "rail_boardings": 393504.0,
+      "total_rides": 1045775.0,
+      "rolling_average_7d": null
+    },
+    {
+      "service_date": "2026-04-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 688145.0,
+      "rail_boardings": 450584.0,
+      "total_rides": 1138729.0,
+      "rolling_average_7d": 939549.7142857143
+    },
+    {
+      "service_date": "2026-04-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 694793.0,
+      "rail_boardings": 457780.0,
+      "total_rides": 1152573.0,
+      "rolling_average_7d": 941982.0
+    },
+    {
+      "service_date": "2026-04-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 684531.0,
+      "rail_boardings": 457632.0,
+      "total_rides": 1142163.0,
+      "rolling_average_7d": 956613.2857142857
+    },
+    {
+      "service_date": "2026-04-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 643765.0,
+      "rail_boardings": 410306.0,
+      "total_rides": 1054071.0,
+      "rolling_average_7d": 968589.8571428572
+    },
+    {
+      "service_date": "2026-04-11T00:00:00.000",
+      "day_type": "A",
+      "bus": 458730.0,
+      "rail_boardings": 330496.0,
+      "total_rides": 789226.0,
+      "rolling_average_7d": 980634.5714285715
+    },
+    {
+      "service_date": "2026-04-12T00:00:00.000",
+      "day_type": "U",
+      "bus": 368788.0,
+      "rail_boardings": 250476.0,
+      "total_rides": 619264.0,
+      "rolling_average_7d": 991685.8571428572
+    },
+    {
+      "service_date": "2026-04-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 649252.0,
+      "rail_boardings": 397150.0,
+      "total_rides": 1046402.0,
+      "rolling_average_7d": 991775.4285714285
+    },
+    {
+      "service_date": "2026-04-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 662823.0,
+      "rail_boardings": 445919.0,
+      "total_rides": 1108742.0,
+      "rolling_average_7d": 987491.5714285715
+    },
+    {
+      "service_date": "2026-04-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 664108.0,
+      "rail_boardings": 447463.0,
+      "total_rides": 1111571.0,
+      "rolling_average_7d": 981634.1428571428
+    },
+    {
+      "service_date": "2026-04-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 669361.0,
+      "rail_boardings": 459456.0,
+      "total_rides": 1128817.0,
+      "rolling_average_7d": 979727.5714285715
+    },
+    {
+      "service_date": "2026-04-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 670050.0,
+      "rail_boardings": 424557.0,
+      "total_rides": 1094607.0,
+      "rolling_average_7d": 985518.4285714285
+    },
+    {
+      "service_date": "2026-04-18T00:00:00.000",
+      "day_type": "A",
+      "bus": 456734.0,
+      "rail_boardings": 325338.0,
+      "total_rides": 782072.0,
+      "rolling_average_7d": 984496.4285714285
+    },
+    {
+      "service_date": "2026-04-19T00:00:00.000",
+      "day_type": "U",
+      "bus": 352633.0,
+      "rail_boardings": 239192.0,
+      "total_rides": 591825.0,
+      "rolling_average_7d": 980576.5714285715
+    },
+    {
+      "service_date": "2026-04-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 663948.0,
+      "rail_boardings": 411525.0,
+      "total_rides": 1075473.0,
+      "rolling_average_7d": 984729.5714285715
+    },
+    {
+      "service_date": "2026-04-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 680882.0,
+      "rail_boardings": 468889.0,
+      "total_rides": 1149771.0,
+      "rolling_average_7d": 990590.8571428572
+    },
+    {
+      "service_date": "2026-04-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 694018.0,
+      "rail_boardings": 480559.0,
+      "total_rides": 1174577.0,
+      "rolling_average_7d": 999591.7142857143
+    },
+    {
+      "service_date": "2026-04-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 704867.0,
+      "rail_boardings": 480434.0,
+      "total_rides": 1185301.0,
+      "rolling_average_7d": 1007660.8571428572
+    },
+    {
+      "service_date": "2026-04-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 648466.0,
+      "rail_boardings": 408638.0,
+      "total_rides": 1057104.0,
+      "rolling_average_7d": 1002303.2857142857
+    },
+    {
+      "service_date": "2026-04-25T00:00:00.000",
+      "day_type": "A",
+      "bus": 467308.0,
+      "rail_boardings": 330927.0,
+      "total_rides": 798235.0,
+      "rolling_average_7d": 1004612.2857142857
+    },
+    {
+      "service_date": "2026-04-26T00:00:00.000",
+      "day_type": "U",
+      "bus": 358682.0,
+      "rail_boardings": 238809.0,
+      "total_rides": 597491.0,
+      "rolling_average_7d": 1005421.7142857143
+    },
+    {
+      "service_date": "2026-04-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 594496.0,
+      "rail_boardings": 366822.0,
+      "total_rides": 961318.0,
+      "rolling_average_7d": 989113.8571428572
+    },
+    {
+      "service_date": "2026-04-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 693327.0,
+      "rail_boardings": 450554.0,
+      "total_rides": 1143881.0,
+      "rolling_average_7d": 988272.4285714285
+    },
+    {
+      "service_date": "2026-04-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 683443.0,
+      "rail_boardings": 452132.0,
+      "total_rides": 1135575.0,
+      "rolling_average_7d": 982700.7142857143
+    },
+    {
+      "service_date": "2026-04-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 681298.0,
+      "rail_boardings": 449242.0,
+      "total_rides": 1130540.0,
+      "rolling_average_7d": 974877.7142857143
+    },
+    {
+      "service_date": "2026-05-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 678734.0,
+      "rail_boardings": 427564.0,
+      "total_rides": 1106298.0,
+      "rolling_average_7d": 981905.4285714285
+    },
+    {
+      "service_date": "2026-05-02T00:00:00.000",
+      "day_type": "A",
+      "bus": 476394.0,
+      "rail_boardings": 340263.0,
+      "total_rides": 816657.0,
+      "rolling_average_7d": 984537.1428571428
+    },
+    {
+      "service_date": "2026-05-03T00:00:00.000",
+      "day_type": "U",
+      "bus": 369869.0,
+      "rail_boardings": 255139.0,
+      "total_rides": 625008.0,
+      "rolling_average_7d": 988468.1428571428
+    },
+    {
+      "service_date": "2026-05-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 678143.0,
+      "rail_boardings": 421101.0,
+      "total_rides": 1099244.0,
+      "rolling_average_7d": 1008171.8571428572
+    },
+    {
+      "service_date": "2026-05-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 689689.0,
+      "rail_boardings": 473875.0,
+      "total_rides": 1163564.0,
+      "rolling_average_7d": 1010983.7142857143
+    },
+    {
+      "service_date": "2026-05-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 705568.0,
+      "rail_boardings": 475568.0,
+      "total_rides": 1181136.0,
+      "rolling_average_7d": 1017492.4285714285
+    },
+    {
+      "service_date": "2026-05-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 690298.0,
+      "rail_boardings": 485590.0,
+      "total_rides": 1175888.0,
+      "rolling_average_7d": 1023970.7142857143
+    },
+    {
+      "service_date": "2026-05-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 656464.0,
+      "rail_boardings": 428810.0,
+      "total_rides": 1085274.0,
+      "rolling_average_7d": 1020967.2857142857
+    },
+    {
+      "service_date": "2026-05-09T00:00:00.000",
+      "day_type": "A",
+      "bus": 478365.0,
+      "rail_boardings": 329817.0,
+      "total_rides": 808182.0,
+      "rolling_average_7d": 1019756.5714285715
+    },
+    {
+      "service_date": "2026-05-10T00:00:00.000",
+      "day_type": "U",
+      "bus": 360122.0,
+      "rail_boardings": 234430.0,
+      "total_rides": 594552.0,
+      "rolling_average_7d": 1015405.7142857143
+    },
+    {
+      "service_date": "2026-05-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 641027.0,
+      "rail_boardings": 389040.0,
+      "total_rides": 1030067.0,
+      "rolling_average_7d": 1005523.2857142857
+    },
+    {
+      "service_date": "2026-05-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 666123.0,
+      "rail_boardings": 448226.0,
+      "total_rides": 1114349.0,
+      "rolling_average_7d": 998492.5714285715
+    },
+    {
+      "service_date": "2026-05-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 685724.0,
+      "rail_boardings": 458062.0,
+      "total_rides": 1143786.0,
+      "rolling_average_7d": 993156.8571428572
+    },
+    {
+      "service_date": "2026-05-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 687042.0,
+      "rail_boardings": 474006.0,
+      "total_rides": 1161048.0,
+      "rolling_average_7d": 991036.8571428572
+    },
+    {
+      "service_date": "2026-05-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 668794.0,
+      "rail_boardings": 436600.0,
+      "total_rides": 1105394.0,
+      "rolling_average_7d": 993911.1428571428
+    },
+    {
+      "service_date": "2026-05-16T00:00:00.000",
+      "day_type": "A",
+      "bus": 488902.0,
+      "rail_boardings": 366870.0,
+      "total_rides": 855772.0,
+      "rolling_average_7d": 1000709.7142857143
+    },
+    {
+      "service_date": "2026-05-17T00:00:00.000",
+      "day_type": "U",
+      "bus": 394942.0,
+      "rail_boardings": 304071.0,
+      "total_rides": 699013.0,
+      "rolling_average_7d": 1015632.7142857143
+    },
+    {
+      "service_date": "2026-05-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 629501.0,
+      "rail_boardings": 417400.0,
+      "total_rides": 1046901.0,
+      "rolling_average_7d": 1018037.5714285715
+    },
+    {
+      "service_date": "2026-05-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 682742.0,
+      "rail_boardings": 482957.0,
+      "total_rides": 1165699.0,
+      "rolling_average_7d": 1025373.2857142857
+    },
+    {
+      "service_date": "2026-05-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 692535.0,
+      "rail_boardings": 485962.0,
+      "total_rides": 1178497.0,
+      "rolling_average_7d": 1030332.0
+    },
+    {
+      "service_date": "2026-05-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 671385.0,
+      "rail_boardings": 461129.0,
+      "total_rides": 1132514.0,
+      "rolling_average_7d": 1026255.7142857143
+    },
+    {
+      "service_date": "2026-05-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 649765.0,
+      "rail_boardings": 437173.0,
+      "total_rides": 1086938.0,
+      "rolling_average_7d": 1023619.1428571428
+    },
+    {
+      "service_date": "2026-05-23T00:00:00.000",
+      "day_type": "A",
+      "bus": 466739.0,
+      "rail_boardings": 394543.0,
+      "total_rides": 861282.0,
+      "rolling_average_7d": 1024406.2857142857
+    },
+    {
+      "service_date": "2026-05-24T00:00:00.000",
+      "day_type": "U",
+      "bus": 374679.0,
+      "rail_boardings": 319205.0,
+      "total_rides": 693884.0,
+      "rolling_average_7d": 1023673.5714285715
+    },
+    {
+      "service_date": "2026-05-25T00:00:00.000",
+      "day_type": "U",
+      "bus": 405024.0,
+      "rail_boardings": 270702.0,
+      "total_rides": 675726.0,
+      "rolling_average_7d": 970648.5714285715
+    },
+    {
+      "service_date": "2026-05-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 680555.0,
+      "rail_boardings": 442225.0,
+      "total_rides": 1122780.0,
+      "rolling_average_7d": 964517.2857142857
+    },
+    {
+      "service_date": "2026-05-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 687167.0,
+      "rail_boardings": 464216.0,
+      "total_rides": 1151383.0,
+      "rolling_average_7d": 960643.8571428572
+    },
+    {
+      "service_date": "2026-05-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 679150.0,
+      "rail_boardings": 470807.0,
+      "total_rides": 1149957.0,
+      "rolling_average_7d": 963135.7142857143
+    },
+    {
+      "service_date": "2026-05-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 659766.0,
+      "rail_boardings": 429420.0,
+      "total_rides": 1089186.0,
+      "rolling_average_7d": 963456.8571428572
+    },
+    {
+      "service_date": "2026-05-30T00:00:00.000",
+      "day_type": "A",
+      "bus": 503152.0,
+      "rail_boardings": 306596.0,
+      "total_rides": 809748.0,
+      "rolling_average_7d": 956094.8571428572
+    },
+    {
+      "service_date": "2026-05-31T00:00:00.000",
+      "day_type": "U",
+      "bus": 398487.0,
+      "rail_boardings": 235525.0,
+      "total_rides": 634012.0,
+      "rolling_average_7d": 947541.7142857143
+    },
+    {
+      "service_date": "2026-06-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 661514.0,
+      "rail_boardings": 402581.0,
+      "total_rides": 1064095.0,
+      "rolling_average_7d": 1003023.0
+    },
+    {
+      "service_date": "2026-06-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 686405.0,
+      "rail_boardings": 490907.0,
+      "total_rides": 1177312.0,
+      "rolling_average_7d": 1010813.2857142857
+    },
+    {
+      "service_date": "2026-06-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 702053.0,
+      "rail_boardings": 493541.0,
+      "total_rides": 1195594.0,
+      "rolling_average_7d": 1017129.1428571428
+    },
+    {
+      "service_date": "2026-06-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 703449.0,
+      "rail_boardings": 522870.0,
+      "total_rides": 1226319.0,
+      "rolling_average_7d": 1028038.0
+    },
+    {
+      "service_date": "2026-06-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 602319.0,
+      "rail_boardings": 467507.0,
+      "total_rides": 1069826.0,
+      "rolling_average_7d": 1025272.2857142857
+    },
+    {
+      "service_date": "2026-06-06T00:00:00.000",
+      "day_type": "A",
+      "bus": 522892.0,
+      "rail_boardings": 390015.0,
+      "total_rides": 912907.0,
+      "rolling_average_7d": 1040009.2857142857
+    },
+    {
+      "service_date": "2026-06-07T00:00:00.000",
+      "day_type": "U",
+      "bus": 419409.0,
+      "rail_boardings": 302910.0,
+      "total_rides": 722319.0,
+      "rolling_average_7d": 1052624.5714285714
+    },
+    {
+      "service_date": "2026-06-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 589194.0,
+      "rail_boardings": 403342.0,
+      "total_rides": 992536.0,
+      "rolling_average_7d": 1042401.8571428572
+    },
+    {
+      "service_date": "2026-06-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 639310.0,
+      "rail_boardings": 468590.0,
+      "total_rides": 1107900.0,
+      "rolling_average_7d": 1032485.8571428572
+    },
+    {
+      "service_date": "2026-06-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 600265.0,
+      "rail_boardings": 451705.0,
+      "total_rides": 1051970.0,
+      "rolling_average_7d": 1011968.1428571428
+    },
+    {
+      "service_date": "2026-06-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 567575.0,
+      "rail_boardings": 444223.0,
+      "total_rides": 1011798.0,
+      "rolling_average_7d": 981322.2857142857
+    },
+    {
+      "service_date": "2026-06-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 637849.0,
+      "rail_boardings": 483207.0,
+      "total_rides": 1121056.0,
+      "rolling_average_7d": 988640.8571428572
+    },
+    {
+      "service_date": "2026-06-13T00:00:00.000",
+      "day_type": "A",
+      "bus": 516505.0,
+      "rail_boardings": 354833.0,
+      "total_rides": 871338.0,
+      "rolling_average_7d": 982702.4285714285
+    },
+    {
+      "service_date": "2026-06-14T00:00:00.000",
+      "day_type": "U",
+      "bus": 384733.0,
+      "rail_boardings": 258639.0,
+      "total_rides": 643372.0,
+      "rolling_average_7d": 971424.2857142857
+    },
+    {
+      "service_date": "2026-06-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 609692.0,
+      "rail_boardings": 433819.0,
+      "total_rides": 1043511.0,
+      "rolling_average_7d": 978706.4285714285
+    },
+    {
+      "service_date": "2026-06-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 626811.0,
+      "rail_boardings": 477690.0,
+      "total_rides": 1104501.0,
+      "rolling_average_7d": 978220.8571428572
+    },
+    {
+      "service_date": "2026-06-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 521035.0,
+      "rail_boardings": 418372.0,
+      "total_rides": 939407.0,
+      "rolling_average_7d": 962140.4285714285
+    },
+    {
+      "service_date": "2026-06-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 635454.0,
+      "rail_boardings": 478350.0,
+      "total_rides": 1113804.0,
+      "rolling_average_7d": 976712.7142857143
+    },
+    {
+      "service_date": "2026-06-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 568798.0,
+      "rail_boardings": 444156.0,
+      "total_rides": 1012954.0,
+      "rolling_average_7d": 961269.5714285715
+    },
+    {
+      "service_date": "2026-06-20T00:00:00.000",
+      "day_type": "A",
+      "bus": 504171.0,
+      "rail_boardings": 425966.0,
+      "total_rides": 930137.0,
+      "rolling_average_7d": 969669.4285714285
+    },
+    {
+      "service_date": "2026-06-21T00:00:00.000",
+      "day_type": "U",
+      "bus": 322199.0,
+      "rail_boardings": 252345.0,
+      "total_rides": 574544.0,
+      "rolling_average_7d": 959836.8571428572
+    },
+    {
+      "service_date": "2026-06-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 616914.0,
+      "rail_boardings": 414155.0,
+      "total_rides": 1031069.0,
+      "rolling_average_7d": 958059.4285714285
+    },
+    {
+      "service_date": "2026-06-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 661722.0,
+      "rail_boardings": 483885.0,
+      "total_rides": 1145607.0,
+      "rolling_average_7d": 963931.7142857143
+    },
+    {
+      "service_date": "2026-06-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 615759.0,
+      "rail_boardings": 456735.0,
+      "total_rides": 1072494.0,
+      "rolling_average_7d": 982944.1428571428
+    },
+    {
+      "service_date": "2026-06-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 663250.0,
+      "rail_boardings": 476115.0,
+      "total_rides": 1139365.0,
+      "rolling_average_7d": 986595.7142857143
+    },
+    {
+      "service_date": "2026-06-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 602267.0,
+      "rail_boardings": 432822.0,
+      "total_rides": 1035089.0,
+      "rolling_average_7d": 989757.8571428572
+    },
+    {
+      "service_date": "2026-06-27T00:00:00.000",
+      "day_type": "A",
+      "bus": 500926.0,
+      "rail_boardings": 381436.0,
+      "total_rides": 882362.0,
+      "rolling_average_7d": 982932.8571428572
+    },
+    {
+      "service_date": "2026-06-28T00:00:00.000",
+      "day_type": "U",
+      "bus": 393301.0,
+      "rail_boardings": 372432.0,
+      "total_rides": 765733.0,
+      "rolling_average_7d": 1010245.5714285715
+    },
+    {
+      "service_date": "2026-06-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 612746.0,
+      "rail_boardings": 422790.0,
+      "total_rides": 1035536.0,
+      "rolling_average_7d": 1010883.7142857143
+    },
+    {
+      "service_date": "2026-06-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 632314.0,
+      "rail_boardings": 459373.0,
+      "total_rides": 1091687.0,
+      "rolling_average_7d": 1003180.8571428572
+    },
+    {
+      "service_date": "2026-07-01T00:00:00.000",
+      "day_type": "W",
+      "bus": 642591.0,
+      "rail_boardings": 455305.0,
+      "total_rides": 1097896.0,
+      "rolling_average_7d": 1006809.7142857143
+    },
+    {
+      "service_date": "2026-07-02T00:00:00.000",
+      "day_type": "W",
+      "bus": 612638.0,
+      "rail_boardings": 405281.0,
+      "total_rides": 1017919.0,
+      "rolling_average_7d": 989460.2857142857
+    },
+    {
+      "service_date": "2026-07-03T00:00:00.000",
+      "day_type": "U",
+      "bus": 431417.0,
+      "rail_boardings": 319560.0,
+      "total_rides": 750977.0,
+      "rolling_average_7d": 948872.8571428572
+    },
+    {
+      "service_date": "2026-07-04T00:00:00.000",
+      "day_type": "A",
+      "bus": 371193.0,
+      "rail_boardings": 274555.0,
+      "total_rides": 645748.0,
+      "rolling_average_7d": 915070.8571428572
+    },
+    {
+      "service_date": "2026-07-05T00:00:00.000",
+      "day_type": "U",
+      "bus": 358588.0,
+      "rail_boardings": 267607.0,
+      "total_rides": 626195.0,
+      "rolling_average_7d": 895136.8571428572
+    },
+    {
+      "service_date": "2026-07-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 617054.0,
+      "rail_boardings": 395404.0,
+      "total_rides": 1012458.0,
+      "rolling_average_7d": 891840.0
+    },
+    {
+      "service_date": "2026-07-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 654137.0,
+      "rail_boardings": 469275.0,
+      "total_rides": 1123412.0,
+      "rolling_average_7d": 896372.1428571428
+    },
+    {
+      "service_date": "2026-07-08T00:00:00.000",
+      "day_type": "W",
+      "bus": 663248.0,
+      "rail_boardings": 482953.0,
+      "total_rides": 1146201.0,
+      "rolling_average_7d": 903272.8571428572
+    },
+    {
+      "service_date": "2026-07-09T00:00:00.000",
+      "day_type": "W",
+      "bus": 630965.0,
+      "rail_boardings": 468701.0,
+      "total_rides": 1099666.0,
+      "rolling_average_7d": 914951.0
+    },
+    {
+      "service_date": "2026-07-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 615681.0,
+      "rail_boardings": 444596.0,
+      "total_rides": 1060277.0,
+      "rolling_average_7d": 959136.7142857143
+    },
+    {
+      "service_date": "2026-07-11T00:00:00.000",
+      "day_type": "A",
+      "bus": 495769.0,
+      "rail_boardings": 407862.0,
+      "total_rides": 903631.0,
+      "rolling_average_7d": 995977.1428571428
+    },
+    {
+      "service_date": "2026-07-12T00:00:00.000",
+      "day_type": "U",
+      "bus": 398636.0,
+      "rail_boardings": 334728.0,
+      "total_rides": 733364.0,
+      "rolling_average_7d": 1011287.0
+    },
+    {
+      "service_date": "2026-07-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 608616.0,
+      "rail_boardings": 409642.0,
+      "total_rides": 1018258.0,
+      "rolling_average_7d": 1012115.5714285715
+    },
+    {
+      "service_date": "2026-07-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 633626.0,
+      "rail_boardings": 485430.0,
+      "total_rides": 1119056.0,
+      "rolling_average_7d": 1011493.2857142857
+    },
+    {
+      "service_date": "2026-07-15T00:00:00.000",
+      "day_type": "W",
+      "bus": 639069.0,
+      "rail_boardings": 494927.0,
+      "total_rides": 1133996.0,
+      "rolling_average_7d": 1009749.7142857143
+    },
+    {
+      "service_date": "2026-07-16T00:00:00.000",
+      "day_type": "W",
+      "bus": 597995.0,
+      "rail_boardings": 440486.0,
+      "total_rides": 1038481.0,
+      "rolling_average_7d": 1001009.0
+    },
+    {
+      "service_date": "2026-07-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 555411.0,
+      "rail_boardings": 411004.0,
+      "total_rides": 966415.0,
+      "rolling_average_7d": 987600.1428571428
+    },
+    {
+      "service_date": "2026-07-18T00:00:00.000",
+      "day_type": "A",
+      "bus": 475011.0,
+      "rail_boardings": 366467.0,
+      "total_rides": 841478.0,
+      "rolling_average_7d": 978721.1428571428
+    },
+    {
+      "service_date": "2026-07-19T00:00:00.000",
+      "day_type": "U",
+      "bus": 383547.0,
+      "rail_boardings": 296048.0,
+      "total_rides": 679595.0,
+      "rolling_average_7d": 971039.8571428572
+    },
+    {
+      "service_date": "2026-07-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 599410.0,
+      "rail_boardings": 425636.0,
+      "total_rides": 1025046.0,
+      "rolling_average_7d": 972009.5714285715
+    },
+    {
+      "service_date": "2026-07-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 637015.0,
+      "rail_boardings": 485478.0,
+      "total_rides": 1122493.0,
+      "rolling_average_7d": 972500.5714285715
+    },
+    {
+      "service_date": "2026-07-22T00:00:00.000",
+      "day_type": "W",
+      "bus": 650229.0,
+      "rail_boardings": 503126.0,
+      "total_rides": 1153355.0,
+      "rolling_average_7d": 975266.1428571428
+    },
+    {
+      "service_date": "2026-07-23T00:00:00.000",
+      "day_type": "W",
+      "bus": 640806.0,
+      "rail_boardings": 483055.0,
+      "total_rides": 1123861.0,
+      "rolling_average_7d": 987463.2857142857
+    },
+    {
+      "service_date": "2026-07-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 606996.0,
+      "rail_boardings": 477020.0,
+      "total_rides": 1084016.0,
+      "rolling_average_7d": 1004263.4285714285
+    },
+    {
+      "service_date": "2026-07-25T00:00:00.000",
+      "day_type": "A",
+      "bus": 493035.0,
+      "rail_boardings": 439676.0,
+      "total_rides": 932711.0,
+      "rolling_average_7d": 1017296.7142857143
+    },
+    {
+      "service_date": "2026-07-26T00:00:00.000",
+      "day_type": "U",
+      "bus": 393973.0,
+      "rail_boardings": 321708.0,
+      "total_rides": 715681.0,
+      "rolling_average_7d": 1022451.8571428572
+    },
+    {
+      "service_date": "2026-07-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 489227.0,
+      "rail_boardings": 366085.0,
+      "total_rides": 855312.0,
+      "rolling_average_7d": 998204.1428571428
+    },
+    {
+      "service_date": "2026-07-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 631099.0,
+      "rail_boardings": 487956.0,
+      "total_rides": 1119055.0,
+      "rolling_average_7d": 997713.0
+    },
+    {
+      "service_date": "2026-07-29T00:00:00.000",
+      "day_type": "W",
+      "bus": 647468.0,
+      "rail_boardings": 521145.0,
+      "total_rides": 1168613.0,
+      "rolling_average_7d": 999892.7142857143
+    },
+    {
+      "service_date": "2026-07-30T00:00:00.000",
+      "day_type": "W",
+      "bus": 632860.0,
+      "rail_boardings": 587779.0,
+      "total_rides": 1220639.0,
+      "rolling_average_7d": 1013718.1428571428
+    },
+    {
+      "service_date": "2026-07-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 584065.0,
+      "rail_boardings": 536958.0,
+      "total_rides": 1121023.0,
+      "rolling_average_7d": 1019004.8571428572
+    },
+    {
+      "service_date": "2026-08-01T00:00:00.000",
+      "day_type": "A",
+      "bus": 417166.0,
+      "rail_boardings": 436133.0,
+      "total_rides": 853299.0,
+      "rolling_average_7d": 1007660.2857142857
+    },
+    {
+      "service_date": "2026-08-02T00:00:00.000",
+      "day_type": "U",
+      "bus": 394083.0,
+      "rail_boardings": 403718.0,
+      "total_rides": 797801.0,
+      "rolling_average_7d": 1019391.7142857143
+    },
+    {
+      "service_date": "2026-08-03T00:00:00.000",
+      "day_type": "W",
+      "bus": 628482.0,
+      "rail_boardings": 468748.0,
+      "total_rides": 1097230.0,
+      "rolling_average_7d": 1053951.4285714286
+    },
+    {
+      "service_date": "2026-08-04T00:00:00.000",
+      "day_type": "W",
+      "bus": 644988.0,
+      "rail_boardings": 505159.0,
+      "total_rides": 1150147.0,
+      "rolling_average_7d": 1058393.142857143
+    },
+    {
+      "service_date": "2026-08-05T00:00:00.000",
+      "day_type": "W",
+      "bus": 609353.0,
+      "rail_boardings": 485014.0,
+      "total_rides": 1094367.0,
+      "rolling_average_7d": 1047786.5714285715
+    },
+    {
+      "service_date": "2026-08-06T00:00:00.000",
+      "day_type": "W",
+      "bus": 620596.0,
+      "rail_boardings": 497272.0,
+      "total_rides": 1117868.0,
+      "rolling_average_7d": 1033105.0
+    },
+    {
+      "service_date": "2026-08-07T00:00:00.000",
+      "day_type": "W",
+      "bus": 609143.0,
+      "rail_boardings": 460704.0,
+      "total_rides": 1069847.0,
+      "rolling_average_7d": 1025794.1428571428
+    },
+    {
+      "service_date": "2026-08-08T00:00:00.000",
+      "day_type": "A",
+      "bus": 485628.0,
+      "rail_boardings": 405437.0,
+      "total_rides": 891065.0,
+      "rolling_average_7d": 1031189.2857142857
+    },
+    {
+      "service_date": "2026-08-09T00:00:00.000",
+      "day_type": "U",
+      "bus": 335070.0,
+      "rail_boardings": 266601.0,
+      "total_rides": 601671.0,
+      "rolling_average_7d": 1003170.7142857143
+    },
+    {
+      "service_date": "2026-08-10T00:00:00.000",
+      "day_type": "W",
+      "bus": 569452.0,
+      "rail_boardings": 394663.0,
+      "total_rides": 964115.0,
+      "rolling_average_7d": 984154.2857142857
+    },
+    {
+      "service_date": "2026-08-11T00:00:00.000",
+      "day_type": "W",
+      "bus": 540849.0,
+      "rail_boardings": 441861.0,
+      "total_rides": 982710.0,
+      "rolling_average_7d": 960234.7142857143
+    },
+    {
+      "service_date": "2026-08-12T00:00:00.000",
+      "day_type": "W",
+      "bus": 594062.0,
+      "rail_boardings": 460112.0,
+      "total_rides": 1054174.0,
+      "rolling_average_7d": 954492.8571428572
+    },
+    {
+      "service_date": "2026-08-13T00:00:00.000",
+      "day_type": "W",
+      "bus": 575890.0,
+      "rail_boardings": 454240.0,
+      "total_rides": 1030130.0,
+      "rolling_average_7d": 941958.8571428572
+    },
+    {
+      "service_date": "2026-08-14T00:00:00.000",
+      "day_type": "W",
+      "bus": 598106.0,
+      "rail_boardings": 465071.0,
+      "total_rides": 1063177.0,
+      "rolling_average_7d": 941006.0
+    },
+    {
+      "service_date": "2026-08-15T00:00:00.000",
+      "day_type": "A",
+      "bus": 444430.0,
+      "rail_boardings": 385938.0,
+      "total_rides": 830368.0,
+      "rolling_average_7d": 932335.0
+    },
+    {
+      "service_date": "2026-08-16T00:00:00.000",
+      "day_type": "U",
+      "bus": 388604.0,
+      "rail_boardings": 314195.0,
+      "total_rides": 702799.0,
+      "rolling_average_7d": 946781.8571428572
+    },
+    {
+      "service_date": "2026-08-17T00:00:00.000",
+      "day_type": "W",
+      "bus": 592459.0,
+      "rail_boardings": 424362.0,
+      "total_rides": 1016821.0,
+      "rolling_average_7d": 954311.2857142857
+    },
+    {
+      "service_date": "2026-08-18T00:00:00.000",
+      "day_type": "W",
+      "bus": 623039.0,
+      "rail_boardings": 474571.0,
+      "total_rides": 1097610.0,
+      "rolling_average_7d": 970725.5714285715
+    },
+    {
+      "service_date": "2026-08-19T00:00:00.000",
+      "day_type": "W",
+      "bus": 640945.0,
+      "rail_boardings": 487576.0,
+      "total_rides": 1128521.0,
+      "rolling_average_7d": 981346.5714285715
+    },
+    {
+      "service_date": "2026-08-20T00:00:00.000",
+      "day_type": "W",
+      "bus": 645703.0,
+      "rail_boardings": 482499.0,
+      "total_rides": 1128202.0,
+      "rolling_average_7d": 995356.8571428572
+    },
+    {
+      "service_date": "2026-08-21T00:00:00.000",
+      "day_type": "W",
+      "bus": 608448.0,
+      "rail_boardings": 445973.0,
+      "total_rides": 1054421.0,
+      "rolling_average_7d": 994106.0
+    },
+    {
+      "service_date": "2026-08-22T00:00:00.000",
+      "day_type": "A",
+      "bus": 481166.0,
+      "rail_boardings": 382725.0,
+      "total_rides": 863891.0,
+      "rolling_average_7d": 998895.0
+    },
+    {
+      "service_date": "2026-08-23T00:00:00.000",
+      "day_type": "U",
+      "bus": 378991.0,
+      "rail_boardings": 310270.0,
+      "total_rides": 689261.0,
+      "rolling_average_7d": 996961.0
+    },
+    {
+      "service_date": "2026-08-24T00:00:00.000",
+      "day_type": "W",
+      "bus": 672747.0,
+      "rail_boardings": 434706.0,
+      "total_rides": 1107453.0,
+      "rolling_average_7d": 1009908.4285714285
+    },
+    {
+      "service_date": "2026-08-25T00:00:00.000",
+      "day_type": "W",
+      "bus": 710080.0,
+      "rail_boardings": 498285.0,
+      "total_rides": 1208365.0,
+      "rolling_average_7d": 1025730.5714285715
+    },
+    {
+      "service_date": "2026-08-26T00:00:00.000",
+      "day_type": "W",
+      "bus": 727777.0,
+      "rail_boardings": 507265.0,
+      "total_rides": 1235042.0,
+      "rolling_average_7d": 1040947.8571428572
+    },
+    {
+      "service_date": "2026-08-27T00:00:00.000",
+      "day_type": "W",
+      "bus": 723453.0,
+      "rail_boardings": 537646.0,
+      "total_rides": 1261099.0,
+      "rolling_average_7d": 1059933.142857143
+    },
+    {
+      "service_date": "2026-08-28T00:00:00.000",
+      "day_type": "W",
+      "bus": 701608.0,
+      "rail_boardings": 532305.0,
+      "total_rides": 1233913.0,
+      "rolling_average_7d": 1085574.857142857
+    },
+    {
+      "service_date": "2026-08-29T00:00:00.000",
+      "day_type": "A",
+      "bus": 487851.0,
+      "rail_boardings": 396159.0,
+      "total_rides": 884010.0,
+      "rolling_average_7d": 1088449.0
+    },
+    {
+      "service_date": "2026-08-30T00:00:00.000",
+      "day_type": "U",
+      "bus": 360055.0,
+      "rail_boardings": 270477.0,
+      "total_rides": 630532.0,
+      "rolling_average_7d": 1080059.142857143
+    },
+    {
+      "service_date": "2026-08-31T00:00:00.000",
+      "day_type": "W",
+      "bus": 643844.0,
+      "rail_boardings": 432794.0,
+      "total_rides": 1076638.0,
+      "rolling_average_7d": 1075657.0
+    }
+  ],
+  "weekly": [
+    {
+      "week_start": "2024-12-30T00:00:00.000",
+      "total_rides": 2901611.0,
+      "observed_days": 5,
+      "available_days": 5,
+      "complete_week": false
+    },
+    {
+      "week_start": "2025-01-06T00:00:00.000",
+      "total_rides": 5621847.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-01-13T00:00:00.000",
+      "total_rides": 5866338.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-01-20T00:00:00.000",
+      "total_rides": 4817241.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-01-27T00:00:00.000",
+      "total_rides": 6099269.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-02-03T00:00:00.000",
+      "total_rides": 6102386.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-02-10T00:00:00.000",
+      "total_rides": 5883224.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-02-17T00:00:00.000",
+      "total_rides": 5551002.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-02-24T00:00:00.000",
+      "total_rides": 6328940.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-03-03T00:00:00.000",
+      "total_rides": 6327271.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-03-10T00:00:00.000",
+      "total_rides": 7018359.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-03-17T00:00:00.000",
+      "total_rides": 6521513.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-03-24T00:00:00.000",
+      "total_rides": 5878157.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-03-31T00:00:00.000",
+      "total_rides": 6518059.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-04-07T00:00:00.000",
+      "total_rides": 6713335.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-04-14T00:00:00.000",
+      "total_rides": 6619766.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-04-21T00:00:00.000",
+      "total_rides": 6842387.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-04-28T00:00:00.000",
+      "total_rides": 6802626.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-05-05T00:00:00.000",
+      "total_rides": 6934531.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-05-12T00:00:00.000",
+      "total_rides": 6998286.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-05-19T00:00:00.000",
+      "total_rides": 6729967.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-05-26T00:00:00.000",
+      "total_rides": 6388274.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-06-02T00:00:00.000",
+      "total_rides": 6954155.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-06-09T00:00:00.000",
+      "total_rides": 6999401.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-06-16T00:00:00.000",
+      "total_rides": 6476289.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-06-23T00:00:00.000",
+      "total_rides": 6695450.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-06-30T00:00:00.000",
+      "total_rides": 6241193.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-07-07T00:00:00.000",
+      "total_rides": 6686903.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-07-14T00:00:00.000",
+      "total_rides": 6777295.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-07-21T00:00:00.000",
+      "total_rides": 6710600.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-07-28T00:00:00.000",
+      "total_rides": 7124411.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-08-04T00:00:00.000",
+      "total_rides": 6790354.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-08-11T00:00:00.000",
+      "total_rides": 6698463.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-08-18T00:00:00.000",
+      "total_rides": 7054947.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-08-25T00:00:00.000",
+      "total_rides": 7433525.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-09-01T00:00:00.000",
+      "total_rides": 6844686.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-09-08T00:00:00.000",
+      "total_rides": 7160667.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-09-15T00:00:00.000",
+      "total_rides": 7314829.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-09-22T00:00:00.000",
+      "total_rides": 7267989.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-09-29T00:00:00.000",
+      "total_rides": 7245141.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-10-06T00:00:00.000",
+      "total_rides": 7542665.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-10-13T00:00:00.000",
+      "total_rides": 7039195.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-10-20T00:00:00.000",
+      "total_rides": 6861440.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-10-27T00:00:00.000",
+      "total_rides": 6927734.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-11-03T00:00:00.000",
+      "total_rides": 6821903.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-11-10T00:00:00.000",
+      "total_rides": 6561103.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-11-17T00:00:00.000",
+      "total_rides": 6889769.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-11-24T00:00:00.000",
+      "total_rides": 4581988.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-12-01T00:00:00.000",
+      "total_rides": 6330503.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-12-08T00:00:00.000",
+      "total_rides": 6238222.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-12-15T00:00:00.000",
+      "total_rides": 6031584.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-12-22T00:00:00.000",
+      "total_rides": 4122220.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2025-12-29T00:00:00.000",
+      "total_rides": 2152677.0,
+      "observed_days": 3,
+      "available_days": 3,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-01-05T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-01-12T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-01-19T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-01-26T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-02-02T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-02-09T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-02-16T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-02-23T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-03-02T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-03-09T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-03-16T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-03-23T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "available_days": 0,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-03-30T00:00:00.000",
+      "total_rides": 4392344.0,
+      "observed_days": 5,
+      "available_days": 5,
+      "complete_week": false
+    },
+    {
+      "week_start": "2026-04-06T00:00:00.000",
+      "total_rides": 6941801.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-04-13T00:00:00.000",
+      "total_rides": 6864036.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-04-20T00:00:00.000",
+      "total_rides": 7037952.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-04-27T00:00:00.000",
+      "total_rides": 6919277.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-05-04T00:00:00.000",
+      "total_rides": 7107840.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-05-11T00:00:00.000",
+      "total_rides": 7109429.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-05-18T00:00:00.000",
+      "total_rides": 7165715.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-05-25T00:00:00.000",
+      "total_rides": 6632792.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-06-01T00:00:00.000",
+      "total_rides": 7368372.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-06-08T00:00:00.000",
+      "total_rides": 6799970.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-06-15T00:00:00.000",
+      "total_rides": 6718858.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-06-22T00:00:00.000",
+      "total_rides": 7071719.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-06-29T00:00:00.000",
+      "total_rides": 6265958.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-07-06T00:00:00.000",
+      "total_rides": 7079009.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-07-13T00:00:00.000",
+      "total_rides": 6797279.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-07-20T00:00:00.000",
+      "total_rides": 7157163.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-07-27T00:00:00.000",
+      "total_rides": 7135742.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-08-03T00:00:00.000",
+      "total_rides": 7022195.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-08-10T00:00:00.000",
+      "total_rides": 6627473.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-08-17T00:00:00.000",
+      "total_rides": 6978727.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-08-24T00:00:00.000",
+      "total_rides": 7560414.0,
+      "observed_days": 7,
+      "available_days": 7,
+      "complete_week": true
+    },
+    {
+      "week_start": "2026-08-31T00:00:00.000",
+      "total_rides": 1076638.0,
+      "observed_days": 1,
+      "available_days": 1,
+      "complete_week": false
+    }
+  ],
+  "day_comparison": [
+    {
+      "calendar_type": "Weekday",
+      "observed_days": 370,
+      "average_daily_bus": 620732.4378378378,
+      "average_daily_rail": 427069.3135135135,
+      "average_daily_total": 1047801.7513513514,
+      "total_rides": 387686648
+    },
+    {
+      "calendar_type": "Weekend",
+      "observed_days": 148,
+      "average_daily_bus": 393134.5945945946,
+      "average_daily_rail": 297309.6283783784,
+      "average_daily_total": 690444.222972973,
+      "total_rides": 102185745
+    }
+  ],
+  "extremes": [
+    {
+      "service_date": "2026-08-27T00:00:00.000",
+      "day_type": "W",
+      "total_rides": 1261099,
+      "extreme": "Highest"
+    },
+    {
+      "service_date": "2025-12-25T00:00:00.000",
+      "day_type": "U",
+      "total_rides": 281133,
+      "extreme": "Lowest"
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01-01T00:00:00.000",
+      "total_rides": 24181632.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": null,
+      "previous_complete": null,
+      "month_over_month_change": null
+    },
+    {
+      "month": "2025-02-01T00:00:00.000",
+      "total_rides": 23824411.0,
+      "observed_days": 28,
+      "complete_month": true,
+      "previous_total": 24181632.0,
+      "previous_complete": true,
+      "month_over_month_change": -0.0147724107
+    },
+    {
+      "month": "2025-03-01T00:00:00.000",
+      "total_rides": 27844517.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 23824411.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.1687389459
+    },
+    {
+      "month": "2025-04-01T00:00:00.000",
+      "total_rides": 29084057.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": 27844517.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0445164842
+    },
+    {
+      "month": "2025-05-01T00:00:00.000",
+      "total_rides": 29900223.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 29084057.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0280623161
+    },
+    {
+      "month": "2025-06-01T00:00:00.000",
+      "total_rides": 28730506.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": 29900223.0,
+      "previous_complete": true,
+      "month_over_month_change": -0.0391206781
+    },
+    {
+      "month": "2025-07-01T00:00:00.000",
+      "total_rides": 29698893.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 28730506.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0337058804
+    },
+    {
+      "month": "2025-08-01T00:00:00.000",
+      "total_rides": 30843136.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 29698893.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0385281364
+    },
+    {
+      "month": "2025-09-01T00:00:00.000",
+      "total_rides": 30877659.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": 30843136.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.001119309
+    },
+    {
+      "month": "2025-10-01T00:00:00.000",
+      "total_rides": 31981440.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 30877659.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0357469133
+    },
+    {
+      "month": "2025-11-01T00:00:00.000",
+      "total_rides": 26200010.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": 31981440.0,
+      "previous_complete": true,
+      "month_over_month_change": -0.1807745367
+    },
+    {
+      "month": "2025-12-01T00:00:00.000",
+      "total_rides": 24875206.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 26200010.0,
+      "previous_complete": true,
+      "month_over_month_change": -0.0505650189
+    },
+    {
+      "month": "2026-01-01T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "complete_month": false,
+      "previous_total": 24875206.0,
+      "previous_complete": true,
+      "month_over_month_change": null
+    },
+    {
+      "month": "2026-02-01T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "complete_month": false,
+      "previous_total": null,
+      "previous_complete": false,
+      "month_over_month_change": null
+    },
+    {
+      "month": "2026-03-01T00:00:00.000",
+      "total_rides": null,
+      "observed_days": 0,
+      "complete_month": false,
+      "previous_total": null,
+      "previous_complete": false,
+      "month_over_month_change": null
+    },
+    {
+      "month": "2026-04-01T00:00:00.000",
+      "total_rides": 29607447.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": null,
+      "previous_complete": false,
+      "month_over_month_change": null
+    },
+    {
+      "month": "2026-05-01T00:00:00.000",
+      "total_rides": 30563739.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 29607447.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0322990361
+    },
+    {
+      "month": "2026-06-01T00:00:00.000",
+      "total_rides": 30086142.0,
+      "observed_days": 30,
+      "complete_month": true,
+      "previous_total": 30563739.0,
+      "previous_complete": true,
+      "month_over_month_change": -0.0156262622
+    },
+    {
+      "month": "2026-07-01T00:00:00.000",
+      "total_rides": 30656828.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 30086142.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0189684008
+    },
+    {
+      "month": "2026-08-01T00:00:00.000",
+      "total_rides": 30916547.0,
+      "observed_days": 31,
+      "complete_month": true,
+      "previous_total": 30656828.0,
+      "previous_complete": true,
+      "month_over_month_change": 0.0084718158
+    }
+  ]
+}

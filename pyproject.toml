@@ -5,11 +5,26 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "urbanflow-ai"
 version = "0.1.0"
-description = "Configurable JSON API data ingestion for UrbanFlow AI"
-requires-python = ">=3.10"
+description = "Validated CTA historical analytics and interactive transit decision support"
+requires-python = ">=3.11"
+dependencies = [
+    "psycopg[binary]>=3.2,<4",
+    "duckdb>=1.4,<2",
+    "pandas>=2.2,<3",
+    "numpy>=2,<3",
+    "pyarrow>=18,<24",
+    "plotly>=6,<7",
+    "streamlit>=1.60,<2",
+]
 
 [project.optional-dependencies]
 test = ["pytest>=7"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.pytest.ini_options]
+markers = ["integration: requires an explicitly configured PostgreSQL test database"]
+
+[tool.setuptools.package-data]
+urbanflow_ai = ["sql/*.sql"]

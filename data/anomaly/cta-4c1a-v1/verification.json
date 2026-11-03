@@ -1,0 +1,9 @@
+{
+  "csv_reproduction_byte_identical": true,
+  "all_observed_counts_and_day_types_match_validated_archive": true,
+  "all_training_cutoffs_strictly_prior": true,
+  "evaluated_days_per_model_mode": 2800,
+  "old_data_sql_charts_styles_and_analytics_unchanged": true,
+  "validated_total_reconciliation": true,
+  "external_incident_labels_reviewed": false
+}

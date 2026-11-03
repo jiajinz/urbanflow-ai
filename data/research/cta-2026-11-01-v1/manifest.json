@@ -1,0 +1,38 @@
+{
+  "python_version": "3.11.9",
+  "runtime_versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.4.6",
+    "duckdb": "1.5.6",
+    "pyarrow": "23.0.1",
+    "psycopg": "3.3.6",
+    "plotly": "6.9.0"
+  },
+  "analysis_code_sha256": "628f28cb343e65746cef4509cb5c6ce5481698e40fa56fd830f38ae0dd4a8cce",
+  "input_parquet_sha256": "b46643dfd20041677e6d9f0b74f911aba03c5df94abc3dc57bd8d36d5ce23e41",
+  "source_retrieved_at_utc": "2026-11-01T18:43:07.017244+00:00",
+  "monthly_sql_sha256": "307ec32e7f4b21ee7c8a188f2f942d6fd1087b5de9846b602c8fd433c4b5467a",
+  "baselines": {
+    "2019": [
+      2019
+    ],
+    "2017-2019": [
+      2017,
+      2018,
+      2019
+    ]
+  },
+  "bootstrap_seed": 42,
+  "bootstrap_repetitions": 5000,
+  "tables": {
+    "monthly": 921,
+    "recovery_indices": 480,
+    "annual": 26,
+    "monthly_changes": 921,
+    "period_recovery": 42,
+    "mode_persistence": 12,
+    "day_type_persistence": 8,
+    "matched_composition": 25,
+    "unusual_days": 510
+  }
+}

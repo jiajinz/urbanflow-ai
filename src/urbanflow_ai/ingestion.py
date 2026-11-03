@@ -39,17 +39,33 @@ def _validate_records(data: object) -> list[dict[str, object]]:
     return data
 
 
+RANGE_PAGE_SIZE = 100
+
+
+def validate_date_range(start_date: date | None, end_date: date | None) -> None:
+    """Require either no bounds or two dates defining a nonempty half-open range."""
+    if start_date is None and end_date is None:
+        return
+    if type(start_date) is not date or type(end_date) is not date:
+        raise ValueError("start_date and end_date must both be date objects")
+    if start_date >= end_date:
+        raise ValueError("start_date must be earlier than end_date (exclusive)")
+
+
 def fetch_daily_boardings(
     *, endpoint: str | None = None, timeout: float = 10.0,
     validate_records: bool = True,
+    start_date: date | None = None, end_date: date | None = None,
 ) -> list[dict[str, object]]:
-    """Fetch and validate the latest 100 CTA daily boarding records.
+    """Fetch the latest 100 rows, or all pages in [start_date, end_date).
 
-    ``endpoint`` overrides the default and can also be configured with
-    ``CTA_BOARDINGS_API_URL``. Existing query parameters are preserved.
-    Set ``validate_records=False`` to defer record validation to processing;
-    JSON decoding and top-level array validation always remain enabled.
+    Both date bounds are required for historical loading. Date values are typed
+    before interpolation into SoQL. Existing endpoint filters are combined with
+    the date predicate. Range mode owns limit, offset, and ordering. Failed pages
+    raise rather than returning a partial batch. Timeout applies to each request.
+    Set validate_records=False to defer row validation to processing.
     """
+    validate_date_range(start_date, end_date)
     endpoint = endpoint or os.environ.get("CTA_BOARDINGS_API_URL", DEFAULT_ENDPOINT)
     parsed = urlsplit(endpoint)
     if parsed.scheme not in {"http", "https"} or not parsed.hostname:
@@ -57,8 +73,31 @@ def fetch_daily_boardings(
     if not math.isfinite(timeout) or timeout <= 0:
         raise ValueError("timeout must be finite and greater than zero")
     query = dict(parse_qsl(parsed.query, keep_blank_values=True))
-    query.update({"$limit": "100", "$order": "service_date DESC"})
-    url = urlunsplit(parsed._replace(query=urlencode(query)))
+    if start_date is None:
+        query.update({"$limit": "100", "$order": "service_date DESC"})
+        data = _fetch_page(urlunsplit(parsed._replace(query=urlencode(query))), timeout)
+    else:
+        predicate = (
+            f"service_date >= '{start_date.isoformat()}T00:00:00' AND "
+            f"service_date < '{end_date.isoformat()}T00:00:00'"
+        )
+        existing_filter = query.get("$where")
+        query["$where"] = f"({existing_filter}) AND ({predicate})" if existing_filter else predicate
+        query.update({"$limit": str(RANGE_PAGE_SIZE), "$order": "service_date ASC, :id ASC"})
+        data = []
+        offset = 0
+        while True:
+            query["$offset"] = str(offset)
+            page = _fetch_page(urlunsplit(parsed._replace(query=urlencode(query))), timeout)
+            data.extend(page)
+            if len(page) < RANGE_PAGE_SIZE:
+                break
+            offset += len(page)
+    return _validate_records(data) if validate_records else data
+
+
+def _fetch_page(url: str, timeout: float) -> list[dict[str, object]]:
+    """Request one JSON array, preserving the existing safe ingestion errors."""
     request = Request(url, headers={"Accept": "application/json"}, method="GET")
     try:
         with urlopen(request, timeout=timeout) as response:
@@ -75,4 +114,4 @@ def fetch_daily_boardings(
         raise IngestionError("CTA API response is not valid JSON") from None
     if not isinstance(data, list):
         raise IngestionError("CTA API response must be a JSON array")
-    return _validate_records(data) if validate_records else data
+    return data

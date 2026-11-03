@@ -1,0 +1,467 @@
+[
+  {
+    "index": 4199,
+    "service_date": "2012-07-01T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-01T07:00:00.000",
+      "day_type": "U",
+      "bus": "474631",
+      "rail_boardings": "350123",
+      "total_rides": "824754"
+    }
+  },
+  {
+    "index": 4200,
+    "service_date": "2012-07-02T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-02T07:00:00.000",
+      "day_type": "W",
+      "bus": "929572",
+      "rail_boardings": "676617",
+      "total_rides": "1606189"
+    }
+  },
+  {
+    "index": 4201,
+    "service_date": "2012-07-03T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-03T07:00:00.000",
+      "day_type": "W",
+      "bus": "976022",
+      "rail_boardings": "710361",
+      "total_rides": "1686383"
+    }
+  },
+  {
+    "index": 4202,
+    "service_date": "2012-07-04T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-04T07:00:00.000",
+      "day_type": "U",
+      "bus": "511376",
+      "rail_boardings": "383942",
+      "total_rides": "895318"
+    }
+  },
+  {
+    "index": 4203,
+    "service_date": "2012-07-05T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-05T07:00:00.000",
+      "day_type": "W",
+      "bus": "833954",
+      "rail_boardings": "628259",
+      "total_rides": "1462213"
+    }
+  },
+  {
+    "index": 4204,
+    "service_date": "2012-07-06T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-06T07:00:00.000",
+      "day_type": "W",
+      "bus": "852806",
+      "rail_boardings": "651815",
+      "total_rides": "1504621"
+    }
+  },
+  {
+    "index": 4205,
+    "service_date": "2012-07-07T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-07T07:00:00.000",
+      "day_type": "A",
+      "bus": "628380",
+      "rail_boardings": "439918",
+      "total_rides": "1068298"
+    }
+  },
+  {
+    "index": 4206,
+    "service_date": "2012-07-08T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-08T07:00:00.000",
+      "day_type": "U",
+      "bus": "490561",
+      "rail_boardings": "341530",
+      "total_rides": "832091"
+    }
+  },
+  {
+    "index": 4207,
+    "service_date": "2012-07-09T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-09T07:00:00.000",
+      "day_type": "W",
+      "bus": "934404",
+      "rail_boardings": "697423",
+      "total_rides": "1631827"
+    }
+  },
+  {
+    "index": 4208,
+    "service_date": "2012-07-10T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-10T07:00:00.000",
+      "day_type": "W",
+      "bus": "958191",
+      "rail_boardings": "713798",
+      "total_rides": "1671989"
+    }
+  },
+  {
+    "index": 4209,
+    "service_date": "2012-07-11T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-11T07:00:00.000",
+      "day_type": "W",
+      "bus": "982452",
+      "rail_boardings": "751429",
+      "total_rides": "1733881"
+    }
+  },
+  {
+    "index": 4210,
+    "service_date": "2012-07-12T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-12T07:00:00.000",
+      "day_type": "W",
+      "bus": "973681",
+      "rail_boardings": "769452",
+      "total_rides": "1743133"
+    }
+  },
+  {
+    "index": 4211,
+    "service_date": "2012-07-13T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-13T07:00:00.000",
+      "day_type": "W",
+      "bus": "918812",
+      "rail_boardings": "781300",
+      "total_rides": "1700112"
+    }
+  },
+  {
+    "index": 4212,
+    "service_date": "2012-07-14T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-14T07:00:00.000",
+      "day_type": "A",
+      "bus": "662503",
+      "rail_boardings": "539189",
+      "total_rides": "1201692"
+    }
+  },
+  {
+    "index": 4213,
+    "service_date": "2012-07-15T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-15T07:00:00.000",
+      "day_type": "U",
+      "bus": "520254",
+      "rail_boardings": "434508",
+      "total_rides": "954762"
+    }
+  },
+  {
+    "index": 4214,
+    "service_date": "2012-07-16T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-16T07:00:00.000",
+      "day_type": "W",
+      "bus": "927149",
+      "rail_boardings": "703975",
+      "total_rides": "1631124"
+    }
+  },
+  {
+    "index": 4215,
+    "service_date": "2012-07-17T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-17T07:00:00.000",
+      "day_type": "W",
+      "bus": "916666",
+      "rail_boardings": "721980",
+      "total_rides": "1638646"
+    }
+  },
+  {
+    "index": 4216,
+    "service_date": "2012-07-18T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-18T07:00:00.000",
+      "day_type": "W",
+      "bus": "947611",
+      "rail_boardings": "737720",
+      "total_rides": "1685331"
+    }
+  },
+  {
+    "index": 4217,
+    "service_date": "2012-07-19T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-19T07:00:00.000",
+      "day_type": "W",
+      "bus": "929760",
+      "rail_boardings": "737674",
+      "total_rides": "1667434"
+    }
+  },
+  {
+    "index": 4218,
+    "service_date": "2012-07-20T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-20T07:00:00.000",
+      "day_type": "W",
+      "bus": "950944",
+      "rail_boardings": "732949",
+      "total_rides": "1683893"
+    }
+  },
+  {
+    "index": 4219,
+    "service_date": "2012-07-21T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-21T07:00:00.000",
+      "day_type": "A",
+      "bus": "682249",
+      "rail_boardings": "467138",
+      "total_rides": "1149387"
+    }
+  },
+  {
+    "index": 4220,
+    "service_date": "2012-07-22T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-22T07:00:00.000",
+      "day_type": "U",
+      "bus": "481281",
+      "rail_boardings": "353089",
+      "total_rides": "834370"
+    }
+  },
+  {
+    "index": 4221,
+    "service_date": "2012-07-23T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-23T07:00:00.000",
+      "day_type": "W",
+      "bus": "915219",
+      "rail_boardings": "695786",
+      "total_rides": "1611005"
+    }
+  },
+  {
+    "index": 4222,
+    "service_date": "2012-07-24T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-24T07:00:00.000",
+      "day_type": "W",
+      "bus": "902916",
+      "rail_boardings": "701367",
+      "total_rides": "1604283"
+    }
+  },
+  {
+    "index": 4223,
+    "service_date": "2012-07-25T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-25T07:00:00.000",
+      "day_type": "W",
+      "bus": "930185",
+      "rail_boardings": "724487",
+      "total_rides": "1654672"
+    }
+  },
+  {
+    "index": 4224,
+    "service_date": "2012-07-26T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-26T07:00:00.000",
+      "day_type": "W",
+      "bus": "945792",
+      "rail_boardings": "720070",
+      "total_rides": "1665862"
+    }
+  },
+  {
+    "index": 4225,
+    "service_date": "2012-07-27T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-27T07:00:00.000",
+      "day_type": "W",
+      "bus": "947151",
+      "rail_boardings": "758858",
+      "total_rides": "1706009"
+    }
+  },
+  {
+    "index": 4226,
+    "service_date": "2012-07-28T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-28T07:00:00.000",
+      "day_type": "A",
+      "bus": "686178",
+      "rail_boardings": "517111",
+      "total_rides": "1203289"
+    }
+  },
+  {
+    "index": 4227,
+    "service_date": "2012-07-29T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-29T07:00:00.000",
+      "day_type": "U",
+      "bus": "488506",
+      "rail_boardings": "374441",
+      "total_rides": "862947"
+    }
+  },
+  {
+    "index": 4228,
+    "service_date": "2012-07-30T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-30T07:00:00.000",
+      "day_type": "W",
+      "bus": "907631",
+      "rail_boardings": "705435",
+      "total_rides": "1613066"
+    }
+  },
+  {
+    "index": 4229,
+    "service_date": "2012-07-31T07:00:00.000",
+    "errors": [
+      "service_date must be a valid ISO date or midnight timestamp"
+    ],
+    "duplicate": false,
+    "raw": {
+      "service_date": "2012-07-31T07:00:00.000",
+      "day_type": "W",
+      "bus": "927014",
+      "rail_boardings": "719885",
+      "total_rides": "1646899"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "source_url": "https://data.cityofchicago.org/resource/6iiy-9s97.json",
+  "retrieved_at_utc": "2026-11-01T18:43:07.017244+00:00",
+  "source_coverage": {
+    "first_date": "2001-01-01",
+    "last_date": "2026-08-31",
+    "row_count": 9374
+  },
+  "rejected_count": 31,
+  "duplicate_count": 0,
+  "raw_sha256": "584bf2b17cdb9ba292c6f7393b991fdf1fc6f6314ae644c0714914e39d54df70",
+  "parquet_sha256": "b46643dfd20041677e6d9f0b74f911aba03c5df94abc3dc57bd8d36d5ce23e41",
+  "changed_rows": 8825,
+  "unchanged_rows": 518,
+  "database_matches_validated_source": true
+}
