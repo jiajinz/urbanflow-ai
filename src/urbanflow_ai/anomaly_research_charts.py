@@ -14,7 +14,7 @@ def observation_chart(view):
             x=series.date,
             y=series.observed,
             name="Actual boardings",
-            mode="lines",
+            mode="lines+markers" if series.observed.notna().sum() == 1 else "lines",
             line=dict(color=MODE_COLORS[MODE_LABELS[mode]], width=1.8),
             connectgaps=False,
         )
@@ -24,7 +24,7 @@ def observation_chart(view):
             x=series.date,
             y=series.expected,
             name="Frozen model expectation",
-            mode="lines",
+            mode="lines+markers" if series.expected.notna().sum() == 1 else "lines",
             line=dict(color="#142B49", dash="dash", width=2),
             connectgaps=False,
         )

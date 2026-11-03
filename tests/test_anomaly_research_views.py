@@ -135,6 +135,41 @@ def test_chart_and_zip_match_exact_visible_frames(bundle):
     assert "/Users/" not in archive.read("selection.json").decode()
 
 
+def test_single_day_empty_candidates_keep_visible_observation_and_expectation(bundle):
+    view = build_research_view(
+        bundle,
+        ResearchFilter(
+            "calendar_median", "rail", date(2021, 6, 4), date(2021, 6, 5), "high"
+        ),
+    )
+    figure = observation_chart(view)
+    assert view.candidates.empty
+    assert figure.data[0].mode == figure.data[1].mode == "lines+markers"
+    assert list(figure.data[0].y) == [244454]
+    assert list(figure.data[1].y) == [717811]
+    archive = ZipFile(BytesIO(export_research_view(view)))
+    assert pd.read_csv(archive.open("candidates.csv")).empty
+    assert len(pd.read_csv(archive.open("observations.csv"))) == 1
+    assert len(pd.read_csv(archive.open("model_health.csv"))) == 1
+
+
+def test_model_switch_exports_and_evidence_never_mix_models(bundle):
+    expected_values = []
+    for model in ("calendar_median", "seasonal_trend"):
+        view = build_research_view(
+            bundle,
+            ResearchFilter(model, "rail", date(2025, 3, 15), date(2025, 3, 16)),
+        )
+        archive = ZipFile(BytesIO(export_research_view(view)))
+        for filename in ("observations.csv", "candidates.csv", "model_health.csv"):
+            frame = pd.read_csv(archive.open(filename))
+            assert not frame.empty and set(frame.model) == {model}
+        case = select_case(bundle, view, view.candidates.case_id.iloc[0])
+        assert case.case["model"] == case.daily["model"] == model
+        expected_values.append(case.case["expected"])
+    assert expected_values[0] != expected_values[1]
+
+
 @pytest.mark.parametrize(
     "flag,column",
     [
