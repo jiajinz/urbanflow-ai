@@ -1,0 +1,7 @@
+threshold,model,raw_alert_observations,distinct_alert_dates,mode_direction_episodes,cross_mode_direction_episodes
+3.0,calendar_median,501,302,110,76
+3.0,seasonal_trend,393,266,137,92
+3.5,calendar_median,464,272,98,65
+3.5,seasonal_trend,299,202,102,69
+4.5,calendar_median,403,230,85,53
+4.5,seasonal_trend,217,142,70,48

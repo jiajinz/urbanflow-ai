@@ -13,6 +13,7 @@ def main():
         st.Page("app_pages/overview.py", title="Executive Overview", default=True),
         st.Page("app_pages/explorer.py", title="Ridership Explorer", url_path="explorer"),
         st.Page("app_pages/methodology.py", title="Research & Methodology", url_path="methodology"),
+        st.Page("app_pages/anomaly_research.py", title="Anomaly Research Explorer", url_path="anomaly-research"),
     ])
     page.run()
 

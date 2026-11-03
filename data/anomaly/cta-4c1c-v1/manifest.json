@@ -1,0 +1,23 @@
+{
+  "prospective_validation_executed": false,
+  "integration_decision": "NO-GO: prospective and human-review evidence absent",
+  "inputs_sha256": {
+    "data/anomaly/cta-4c1b-v1/manifest.json": "02c3799adb6d8468a17ae732c3d49bca64437f6821ec9ca82d289827143f55dc",
+    "data/anomaly/cta-4c1b-v1/daily.csv": "3ccb066e2014810a28dadcaf66cefe50e2e2af951540dd00355eb341fba88b0b",
+    "docs/anomaly_readiness_config.json": "d392d745e6ee9c673b33fb81064d5d66c535badd72f40faa0fe1b60e5d9cdc09",
+    "docs/anomaly_prospective_protocol.md": "866f603d44e7d8afa9351db10ca59e08989b581bf6b9d0aeacc9381ec069cc6e",
+    "/Users/jiajinzhou/urbanflow-ai/src/urbanflow_ai/anomaly.py": "09137bc4a47da6fe7f51f1e17cf426121efc737240a349158357c34028a6ca04",
+    "/Users/jiajinzhou/urbanflow-ai/src/urbanflow_ai/anomaly_readiness.py": "9ad0775d9f702572c958bee3e1d4de7b3d2dce8c2afe804f40d2962b6f8a10f8",
+    "data/history/cta-2026-11-01-v1/manifest.json": "89282c8f983f606e2132953c12b2596ee2d2dc7962d71184f2ed56d3be45477a"
+  },
+  "outputs_sha256": {
+    "cases": "b7142893c4298d51e51474952d528f8fe533d66cf8955cffd8d7de45fc997bdf",
+    "model_health": "8a9e818fc9171e1783e966c8d0653bf595920b991ea5724e8c7bd7f70c3653a3",
+    "episode_registry": "1d8479c9313b5c5e5bd46248e40c401dbba4efc37ac8633645ad3841eaa0d30a",
+    "weekly_load": "e2ca945f976085b7475a4daee5fe0a99a668f3159690a15430fa84dac5c9cd32"
+  },
+  "source_parquet_sha256": "b46643dfd20041677e6d9f0b74f911aba03c5df94abc3dc57bd8d36d5ce23e41",
+  "notes": "Case fields are as-of; full episode end/duration in registry are retrospective context, not ranking inputs",
+  "numpy_version": "2.4.6",
+  "pandas_version": "2.3.3"
+}

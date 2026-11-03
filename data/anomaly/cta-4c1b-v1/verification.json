@@ -1,0 +1,8 @@
+{
+  "independent_diagnostics_csv_count": 11,
+  "diagnostics_csv_and_manifest_byte_identical": true,
+  "frozen_predictions_match_detector_replay": true,
+  "old_snapshot_sql_chart_style_analytics_hashes_unchanged": true,
+  "no_external_incident_research": true,
+  "no_untouched_final_holdout": true
+}

@@ -1,0 +1,25 @@
+{
+  "protocol": "Retrospective temporal validation; no untouched final holdout",
+  "inputs_sha256": {
+    "data/anomaly/cta-4c1a-v1/predictions.csv": "08188169bb0d82cb9a020421683c79ec18b3878ace2bb2fe4b8304b7330c3b31",
+    "/Users/jiajinzhou/urbanflow-ai/src/urbanflow_ai/anomaly.py": "09137bc4a47da6fe7f51f1e17cf426121efc737240a349158357c34028a6ca04",
+    "/Users/jiajinzhou/urbanflow-ai/src/urbanflow_ai/anomaly_validation.py": "2110f5c4f40734d80ca0445dfdded36a4f0811fc0201c180000917f0e1be17b0",
+    "docs/anomaly_validation_protocol.md": "2d3ceaf27bc305a8c26520a6f54d9a41bff2aa382852553275660827d5437792",
+    "data/anomaly/cta-4c1a-v1/manifest.json": "b3594df7073d4aec7701e6f9619ebe827679ba024b2a1fb9a7c047cb375e6a87"
+  },
+  "outputs_sha256": {
+    "daily": "3ccb066e2014810a28dadcaf66cefe50e2e2af951540dd00355eb341fba88b0b",
+    "monthly": "46d1d623d7940a10fbb2e558d5ee7dcfb7c69e2dc08ef03dc37ab8c925e4d9f4",
+    "annual": "c8c2c5e60249425cced534e42ffc27cb053a339525125c64c6c8a8ff2a1cbea3",
+    "windows": "200a2adfa00e001ee2758b4e6198cb97033cd7d3f35088dbecee8ef9a1597315",
+    "scores": "9a239b5c55c37e0c12639b4556c12b54d56613450de773e53d9ebefd5db9fdcd",
+    "overlap": "c61e5ff6bc73114eaaa6dfbdfffb58dc8dab0af656f78edf82d0e49fac52c1f5",
+    "episodes": "78a1c05c4386139298143ee161358e7de87dc7c341e7234c3458ec271faa5e5c",
+    "cross_mode_episodes": "35d15ba399c3a89522979294cda94324cec31012b249439a8520119334bd1923",
+    "ranked_queue": "ff7af9c80dec7b66e345cb5b699128bcd1351478130948b81c5274b4bbd7743f",
+    "investigations": "b038813f30ef025e70eb3ee572f3936a923ae5dee4d019ddef5dc1751e1d3eb4",
+    "threshold_episodes": "72b275e64b35a4eee730b9cf39ea0b67d01468a3d86826dfe29ba8126524d9fc"
+  },
+  "pandas_version": "2.3.3",
+  "numpy_version": "2.4.6"
+}

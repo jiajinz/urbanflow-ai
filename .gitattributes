@@ -1,0 +1,2 @@
+# Preserve generated Plotly HTML, including bundled third-party JavaScript.
+docs/figures/*.html -whitespace
