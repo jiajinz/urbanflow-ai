@@ -164,3 +164,26 @@ def test_explorer_explains_valid_target_without_historical_reference(monkeypatch
     assert any('previous same-month/day-type means are missing or zero' in item.value for item in app.info)
     assert app.dataframe[0].value.value.isna().all()
     assert set(app.dataframe[0].value.comparison_status) == {'Reference unavailable'}
+
+
+def test_all_four_pages_render_offline_without_database_or_api(monkeypatch):
+    import urllib.request
+    import psycopg
+    import urbanflow_ai.ingestion as ingestion
+    from urbanflow_ai.dashboard_ui import cached_data
+    from urbanflow_ai.anomaly_research_ui import cached_research
+
+    def forbidden(*args, **kwargs):
+        raise AssertionError('Offline snapshot pages must not contact an API or database')
+
+    monkeypatch.setattr(urllib.request, 'urlopen', forbidden)
+    monkeypatch.setattr(ingestion, 'urlopen', forbidden)
+    monkeypatch.setattr(psycopg, 'connect', forbidden)
+    monkeypatch.delenv('URBANFLOW_RESEARCH_ROOT', raising=False)
+    cached_data.clear()
+    cached_research.clear()
+    app = start(monkeypatch)
+    for path in ['app_pages/overview.py', 'app_pages/explorer.py', 'app_pages/methodology.py', 'app_pages/anomaly_research.py']:
+        app.switch_page(path).run()
+        assert not app.exception and not app.error
+        assert app.title

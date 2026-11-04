@@ -1,0 +1,207 @@
+[
+  {
+    "page": "overview",
+    "documentWidth": 1440,
+    "height": 900,
+    "mainWidth": 1440,
+    "plotWidths": [
+      1248,
+      1248,
+      1246
+    ],
+    "width": 1440
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1440,
+    "height": 900,
+    "mainWidth": 1440,
+    "plotWidths": [
+      1248
+    ],
+    "width": 1440
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1440,
+    "height": 900,
+    "mainWidth": 1440,
+    "plotWidths": [],
+    "width": 1440
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1440,
+    "height": 900,
+    "mainWidth": 1440,
+    "plotWidths": [
+      1248,
+      1280
+    ],
+    "width": 1440
+  },
+  {
+    "page": "overview",
+    "documentWidth": 1280,
+    "height": 720,
+    "mainWidth": 1280,
+    "plotWidths": [
+      1088,
+      1088,
+      1086
+    ],
+    "width": 1280
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1280,
+    "height": 720,
+    "mainWidth": 1280,
+    "plotWidths": [
+      1088
+    ],
+    "width": 1280
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1280,
+    "height": 720,
+    "mainWidth": 1280,
+    "plotWidths": [],
+    "width": 1280
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1280,
+    "height": 720,
+    "mainWidth": 1280,
+    "plotWidths": [
+      1088,
+      1120
+    ],
+    "width": 1280
+  },
+  {
+    "page": "overview",
+    "documentWidth": 1024,
+    "height": 768,
+    "mainWidth": 1024,
+    "plotWidths": [
+      832,
+      832,
+      830
+    ],
+    "width": 1024
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1024,
+    "height": 768,
+    "mainWidth": 1024,
+    "plotWidths": [
+      832
+    ],
+    "width": 1024
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1024,
+    "height": 768,
+    "mainWidth": 1024,
+    "plotWidths": [],
+    "width": 1024
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1024,
+    "height": 768,
+    "mainWidth": 1024,
+    "plotWidths": [
+      832,
+      864
+    ],
+    "width": 1024
+  },
+  {
+    "page": "overview",
+    "documentWidth": 390,
+    "height": 844,
+    "mainWidth": 390,
+    "plotWidths": [
+      326,
+      326,
+      324
+    ],
+    "width": 390
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 390,
+    "height": 844,
+    "mainWidth": 390,
+    "plotWidths": [
+      326
+    ],
+    "width": 390
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 390,
+    "height": 844,
+    "mainWidth": 390,
+    "plotWidths": [],
+    "width": 390
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 390,
+    "height": 844,
+    "mainWidth": 390,
+    "plotWidths": [
+      326,
+      358
+    ],
+    "width": 390
+  },
+  {
+    "page": "overview",
+    "documentWidth": 320,
+    "height": 700,
+    "mainWidth": 320,
+    "plotWidths": [
+      256,
+      256,
+      254
+    ],
+    "width": 320
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 320,
+    "height": 700,
+    "mainWidth": 320,
+    "plotWidths": [
+      256
+    ],
+    "width": 320
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 320,
+    "height": 700,
+    "mainWidth": 320,
+    "plotWidths": [],
+    "width": 320
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 320,
+    "height": 700,
+    "mainWidth": 320,
+    "plotWidths": [
+      256,
+      288
+    ],
+    "width": 320
+  }
+]

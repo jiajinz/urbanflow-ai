@@ -1,0 +1,32 @@
+{
+  "entrypoint_cold_seconds": 0.35874883299766225,
+  "pages": {
+    "overview": {
+      "first_switch_seconds": 0.06124579199968139,
+      "warm_rerun_median_seconds": 0.05859204099760973,
+      "plotly_elements": 3,
+      "filter_change_seconds": 0.062215958001615945
+    },
+    "explorer": {
+      "first_switch_seconds": 0.039802916999178706,
+      "warm_rerun_median_seconds": 0.032968374998745276,
+      "plotly_elements": 1,
+      "filter_change_seconds": 0.04011629200249445
+    },
+    "methodology": {
+      "first_switch_seconds": 0.008489415999065386,
+      "warm_rerun_median_seconds": 0.006824250001955079,
+      "plotly_elements": 0
+    },
+    "anomaly": {
+      "first_switch_seconds": 0.5807990840003185,
+      "warm_rerun_median_seconds": 0.04357049999816809,
+      "plotly_elements": 2,
+      "filter_change_seconds": 0.04235904199958895
+    }
+  },
+  "research_cold_seconds": 0.5273445839993656,
+  "research_warm_median_seconds": 0.01817579199996544,
+  "research_frames_deep_bytes": 10022258,
+  "process_high_water_rss_mib": 334.78125
+}

@@ -1,6 +1,27 @@
 """Small shared presentation system using public Streamlit container keys."""
 
+import hashlib
+
 import streamlit as st
+
+CAPTION_CSS = """
+<style>
+[class*="st-key-readable_caption_"] div { opacity: 1; }
+[class*="st-key-readable_caption_"] p { color: #526477; }
+</style>
+"""
+
+
+def readable_caption(body, *, key=None):
+    """Keep native caption semantics/size without translucent low-contrast text.
+
+    Content-derived container keys are stable across reruns. Supply an explicit
+    key when identical captions appear more than once on the same page.
+    """
+    identity = key or hashlib.sha256(str(body).encode()).hexdigest()[:16]
+    with st.container(key=f"readable_caption_{identity}"):
+        st.caption(body)
+
 
 PAGE_CSS = """
 <style>
@@ -58,7 +79,7 @@ PAGE_CSS = """
   background: #FFF5E5; border-left: 3px solid #C08431;
   border-radius: 6px; padding: 0.75rem 1rem;
 }
-.st-key-executive_overview .st-key-overview_summary h3 {
+.st-key-executive_overview .st-key-overview_summary h2 {
   font-size: 1.2rem; font-weight: 700; line-height: 1.4; margin: 0 0 1rem; padding: 0;
 }
 .st-key-executive_overview .st-key-overview_summary p { color: #526477; line-height: 1.5; margin: 0 0 1rem; }

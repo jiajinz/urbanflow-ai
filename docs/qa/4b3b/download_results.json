@@ -1,0 +1,26 @@
+[
+  {
+    "selection": "seasonal",
+    "status": "PASS",
+    "observations": 365,
+    "candidates": 19,
+    "health": 365,
+    "duplicate_case_ids": 0
+  },
+  {
+    "selection": "calendar",
+    "status": "PASS",
+    "observations": 365,
+    "candidates": 10,
+    "health": 365,
+    "duplicate_case_ids": 0
+  },
+  {
+    "selection": "empty",
+    "status": "PASS",
+    "observations": 1,
+    "candidates": 0,
+    "health": 1,
+    "duplicate_case_ids": 0
+  }
+]

@@ -11,6 +11,12 @@ DAY_COLORS = {"Weekday (W)": "#0072B2", "Saturday (A)": "#D55E00", "Sunday / hol
 
 
 def style(figure, *, y_title, x_title, height=390):
+    # Redundant line styles support comparisons without relying on color alone.
+    dashes = {"Bus": "solid", "Rail": "dash", "Total": "dot",
+              "Weekday (W)": "solid", "Saturday (A)": "dash", "Sunday / holiday (U)": "dot"}
+    for trace in figure.data:
+        if trace.type == "scatter" and trace.name in dashes:
+            trace.line.dash = dashes[trace.name]
     figure.update_layout(template="plotly_white", height=height,
                          font=dict(family="Arial", color="#23364A", size=13),
                          margin=dict(l=18, r=18, t=65, b=35),

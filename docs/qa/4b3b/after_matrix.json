@@ -1,0 +1,1087 @@
+[
+  {
+    "page": "overview",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1440,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transit recovery is not one story."
+      },
+      {
+        "tag": "H2",
+        "text": "In 2025, Saturday and Sunday/holiday demand recovered further than weekday demand."
+      },
+      {
+        "tag": "H2",
+        "text": "2025 · latest complete calendar year"
+      },
+      {
+        "tag": "H2",
+        "text": "Recovery trajectories"
+      },
+      {
+        "tag": "H3",
+        "text": "How weekday and weekend/holiday demand recovered"
+      },
+      {
+        "tag": "H3",
+        "text": "Weekday bus versus rail · recovery over time"
+      },
+      {
+        "tag": "H2",
+        "text": "Evidence and planning implications"
+      },
+      {
+        "tag": "H3",
+        "text": "Service-day recovery calls for separate planning assumptions"
+      },
+      {
+        "tag": "H3",
+        "text": "Track bus and rail recovery separately"
+      },
+      {
+        "tag": "H3",
+        "text": "Demand composition changed under a common calendar"
+      },
+      {
+        "tag": "H2",
+        "text": "Data transparency"
+      }
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "namedFigures": [
+      "Monthly total recovery by weekday, Saturday and Sunday/holiday, relative to the selected baseline of 100. Exact monthly values are in the calculation evidence table below.",
+      "Monthly weekday bus and rail recovery relative to the selected baseline of 100. Bus is solid and rail is dashed; exact values are available below.",
+      "Bus and rail mean monthly recovery for the latest complete year, grouped by CTA day type. Numeric labels and the annual KPI table provide the values."
+    ],
+    "oversizeControls": [],
+    "width": 1440
+  },
+  {
+    "page": "explorer",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1440,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Ask a comparable question."
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Recovery · Recovery index (baseline = 100)"
+      }
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "namedFigures": [
+      "Filtered CTA Recovery comparison, measured in Recovery index (baseline = 100). Unavailable observations are gaps."
+    ],
+    "oversizeControls": [],
+    "width": 1440
+  },
+  {
+    "page": "methodology",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1440,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Know what the numbers can support."
+      },
+      {
+        "tag": "H2",
+        "text": "01 · Data source & coverage"
+      },
+      {
+        "tag": "H2",
+        "text": "02 · Data quality & exclusions"
+      },
+      {
+        "tag": "H2",
+        "text": "03 · Metric definitions"
+      },
+      {
+        "tag": "H2",
+        "text": "04 · Assumptions & limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "05 · Reproducibility"
+      }
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "namedFigures": [],
+    "oversizeControls": [],
+    "width": 1440
+  },
+  {
+    "page": "anomaly",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "RESEARCH ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "cta-4c1c-v1 · NO-GO · no prospective validation"
+      }
+    ],
+    "documentWidth": 1440,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Anomaly Research Explorer"
+      },
+      {
+        "tag": "H2",
+        "text": "1 · Actual versus expected"
+      },
+      {
+        "tag": "H2",
+        "text": "2 · Investigation cases"
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Model health and limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "4 · Export research evidence"
+      }
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "namedFigures": [
+      "Historical actual and frozen expected daily boardings; up/down markers show filtered statistical candidates, not confirmed incidents.",
+      "Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear."
+    ],
+    "oversizeControls": [],
+    "width": 1440
+  },
+  {
+    "page": "overview",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1280,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transit recovery is not one story."
+      },
+      {
+        "tag": "H2",
+        "text": "In 2025, Saturday and Sunday/holiday demand recovered further than weekday demand."
+      },
+      {
+        "tag": "H2",
+        "text": "2025 · latest complete calendar year"
+      },
+      {
+        "tag": "H2",
+        "text": "Recovery trajectories"
+      },
+      {
+        "tag": "H3",
+        "text": "How weekday and weekend/holiday demand recovered"
+      },
+      {
+        "tag": "H3",
+        "text": "Weekday bus versus rail · recovery over time"
+      },
+      {
+        "tag": "H2",
+        "text": "Evidence and planning implications"
+      },
+      {
+        "tag": "H3",
+        "text": "Service-day recovery calls for separate planning assumptions"
+      },
+      {
+        "tag": "H3",
+        "text": "Track bus and rail recovery separately"
+      },
+      {
+        "tag": "H3",
+        "text": "Demand composition changed under a common calendar"
+      },
+      {
+        "tag": "H2",
+        "text": "Data transparency"
+      }
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "namedFigures": [
+      "Monthly total recovery by weekday, Saturday and Sunday/holiday, relative to the selected baseline of 100. Exact monthly values are in the calculation evidence table below.",
+      "Monthly weekday bus and rail recovery relative to the selected baseline of 100. Bus is solid and rail is dashed; exact values are available below.",
+      "Bus and rail mean monthly recovery for the latest complete year, grouped by CTA day type. Numeric labels and the annual KPI table provide the values."
+    ],
+    "oversizeControls": [],
+    "width": 1280
+  },
+  {
+    "page": "explorer",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1280,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Ask a comparable question."
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Recovery · Recovery index (baseline = 100)"
+      }
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "namedFigures": [
+      "Filtered CTA Recovery comparison, measured in Recovery index (baseline = 100). Unavailable observations are gaps."
+    ],
+    "oversizeControls": [],
+    "width": 1280
+  },
+  {
+    "page": "methodology",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1280,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Know what the numbers can support."
+      },
+      {
+        "tag": "H2",
+        "text": "01 · Data source & coverage"
+      },
+      {
+        "tag": "H2",
+        "text": "02 · Data quality & exclusions"
+      },
+      {
+        "tag": "H2",
+        "text": "03 · Metric definitions"
+      },
+      {
+        "tag": "H2",
+        "text": "04 · Assumptions & limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "05 · Reproducibility"
+      }
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "namedFigures": [],
+    "oversizeControls": [],
+    "width": 1280
+  },
+  {
+    "page": "anomaly",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "RESEARCH ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "cta-4c1c-v1 · NO-GO · no prospective validation"
+      }
+    ],
+    "documentWidth": 1280,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Anomaly Research Explorer"
+      },
+      {
+        "tag": "H2",
+        "text": "1 · Actual versus expected"
+      },
+      {
+        "tag": "H2",
+        "text": "2 · Investigation cases"
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Model health and limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "4 · Export research evidence"
+      }
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "namedFigures": [
+      "Historical actual and frozen expected daily boardings; up/down markers show filtered statistical candidates, not confirmed incidents.",
+      "Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear."
+    ],
+    "oversizeControls": [],
+    "width": 1280
+  },
+  {
+    "page": "overview",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1024,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transit recovery is not one story."
+      },
+      {
+        "tag": "H2",
+        "text": "In 2025, Saturday and Sunday/holiday demand recovered further than weekday demand."
+      },
+      {
+        "tag": "H2",
+        "text": "2025 · latest complete calendar year"
+      },
+      {
+        "tag": "H2",
+        "text": "Recovery trajectories"
+      },
+      {
+        "tag": "H3",
+        "text": "How weekday and weekend/holiday demand recovered"
+      },
+      {
+        "tag": "H3",
+        "text": "Weekday bus versus rail · recovery over time"
+      },
+      {
+        "tag": "H2",
+        "text": "Evidence and planning implications"
+      },
+      {
+        "tag": "H3",
+        "text": "Service-day recovery calls for separate planning assumptions"
+      },
+      {
+        "tag": "H3",
+        "text": "Track bus and rail recovery separately"
+      },
+      {
+        "tag": "H3",
+        "text": "Demand composition changed under a common calendar"
+      },
+      {
+        "tag": "H2",
+        "text": "Data transparency"
+      }
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "namedFigures": [
+      "Monthly total recovery by weekday, Saturday and Sunday/holiday, relative to the selected baseline of 100. Exact monthly values are in the calculation evidence table below.",
+      "Monthly weekday bus and rail recovery relative to the selected baseline of 100. Bus is solid and rail is dashed; exact values are available below.",
+      "Bus and rail mean monthly recovery for the latest complete year, grouped by CTA day type. Numeric labels and the annual KPI table provide the values."
+    ],
+    "oversizeControls": [],
+    "width": 1024
+  },
+  {
+    "page": "explorer",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1024,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Ask a comparable question."
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Recovery · Recovery index (baseline = 100)"
+      }
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "namedFigures": [
+      "Filtered CTA Recovery comparison, measured in Recovery index (baseline = 100). Unavailable observations are gaps."
+    ],
+    "oversizeControls": [],
+    "width": 1024
+  },
+  {
+    "page": "methodology",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 1024,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Know what the numbers can support."
+      },
+      {
+        "tag": "H2",
+        "text": "01 · Data source & coverage"
+      },
+      {
+        "tag": "H2",
+        "text": "02 · Data quality & exclusions"
+      },
+      {
+        "tag": "H2",
+        "text": "03 · Metric definitions"
+      },
+      {
+        "tag": "H2",
+        "text": "04 · Assumptions & limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "05 · Reproducibility"
+      }
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "namedFigures": [],
+    "oversizeControls": [],
+    "width": 1024
+  },
+  {
+    "page": "anomaly",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "RESEARCH ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "cta-4c1c-v1 · NO-GO · no prospective validation"
+      }
+    ],
+    "documentWidth": 1024,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Anomaly Research Explorer"
+      },
+      {
+        "tag": "H2",
+        "text": "1 · Actual versus expected"
+      },
+      {
+        "tag": "H2",
+        "text": "2 · Investigation cases"
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Model health and limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "4 · Export research evidence"
+      }
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "namedFigures": [
+      "Historical actual and frozen expected daily boardings; up/down markers show filtered statistical candidates, not confirmed incidents.",
+      "Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear."
+    ],
+    "oversizeControls": [],
+    "width": 1024
+  },
+  {
+    "page": "overview",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 390,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transit recovery is not one story."
+      },
+      {
+        "tag": "H2",
+        "text": "In 2025, Saturday and Sunday/holiday demand recovered further than weekday demand."
+      },
+      {
+        "tag": "H2",
+        "text": "2025 · latest complete calendar year"
+      },
+      {
+        "tag": "H2",
+        "text": "Recovery trajectories"
+      },
+      {
+        "tag": "H3",
+        "text": "How weekday and weekend/holiday demand recovered"
+      },
+      {
+        "tag": "H3",
+        "text": "Weekday bus versus rail · recovery over time"
+      },
+      {
+        "tag": "H2",
+        "text": "Evidence and planning implications"
+      },
+      {
+        "tag": "H3",
+        "text": "Service-day recovery calls for separate planning assumptions"
+      },
+      {
+        "tag": "H3",
+        "text": "Track bus and rail recovery separately"
+      },
+      {
+        "tag": "H3",
+        "text": "Demand composition changed under a common calendar"
+      },
+      {
+        "tag": "H2",
+        "text": "Data transparency"
+      }
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "namedFigures": [
+      "Monthly total recovery by weekday, Saturday and Sunday/holiday, relative to the selected baseline of 100. Exact monthly values are in the calculation evidence table below.",
+      "Monthly weekday bus and rail recovery relative to the selected baseline of 100. Bus is solid and rail is dashed; exact values are available below.",
+      "Bus and rail mean monthly recovery for the latest complete year, grouped by CTA day type. Numeric labels and the annual KPI table provide the values."
+    ],
+    "oversizeControls": [],
+    "width": 390
+  },
+  {
+    "page": "explorer",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 390,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Ask a comparable question."
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Recovery · Recovery index (baseline = 100)"
+      }
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "namedFigures": [
+      "Filtered CTA Recovery comparison, measured in Recovery index (baseline = 100). Unavailable observations are gaps."
+    ],
+    "oversizeControls": [],
+    "width": 390
+  },
+  {
+    "page": "methodology",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 390,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Know what the numbers can support."
+      },
+      {
+        "tag": "H2",
+        "text": "01 · Data source & coverage"
+      },
+      {
+        "tag": "H2",
+        "text": "02 · Data quality & exclusions"
+      },
+      {
+        "tag": "H2",
+        "text": "03 · Metric definitions"
+      },
+      {
+        "tag": "H2",
+        "text": "04 · Assumptions & limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "05 · Reproducibility"
+      }
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "namedFigures": [],
+    "oversizeControls": [],
+    "width": 390
+  },
+  {
+    "page": "anomaly",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "RESEARCH ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "cta-4c1c-v1 · NO-GO · no prospective validation"
+      }
+    ],
+    "documentWidth": 390,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Anomaly Research Explorer"
+      },
+      {
+        "tag": "H2",
+        "text": "1 · Actual versus expected"
+      },
+      {
+        "tag": "H2",
+        "text": "2 · Investigation cases"
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Model health and limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "4 · Export research evidence"
+      }
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "namedFigures": [
+      "Historical actual and frozen expected daily boardings; up/down markers show filtered statistical candidates, not confirmed incidents.",
+      "Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear."
+    ],
+    "oversizeControls": [],
+    "width": 390
+  },
+  {
+    "page": "overview",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 320,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Transit recovery is not one story."
+      },
+      {
+        "tag": "H2",
+        "text": "In 2025, Saturday and Sunday/holiday demand recovered further than weekday demand."
+      },
+      {
+        "tag": "H2",
+        "text": "2025 · latest complete calendar year"
+      },
+      {
+        "tag": "H2",
+        "text": "Recovery trajectories"
+      },
+      {
+        "tag": "H3",
+        "text": "How weekday and weekend/holiday demand recovered"
+      },
+      {
+        "tag": "H3",
+        "text": "Weekday bus versus rail · recovery over time"
+      },
+      {
+        "tag": "H2",
+        "text": "Evidence and planning implications"
+      },
+      {
+        "tag": "H3",
+        "text": "Service-day recovery calls for separate planning assumptions"
+      },
+      {
+        "tag": "H3",
+        "text": "Track bus and rail recovery separately"
+      },
+      {
+        "tag": "H3",
+        "text": "Demand composition changed under a common calendar"
+      },
+      {
+        "tag": "H2",
+        "text": "Data transparency"
+      }
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "namedFigures": [
+      "Monthly total recovery by weekday, Saturday and Sunday/holiday, relative to the selected baseline of 100. Exact monthly values are in the calculation evidence table below.",
+      "Monthly weekday bus and rail recovery relative to the selected baseline of 100. Bus is solid and rail is dashed; exact values are available below.",
+      "Bus and rail mean monthly recovery for the latest complete year, grouped by CTA day type. Numeric labels and the annual KPI table provide the values."
+    ],
+    "oversizeControls": [],
+    "width": 320
+  },
+  {
+    "page": "explorer",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 320,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Ask a comparable question."
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Recovery · Recovery index (baseline = 100)"
+      }
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "namedFigures": [
+      "Filtered CTA Recovery comparison, measured in Recovery index (baseline = 100). Unavailable observations are gaps."
+    ],
+    "oversizeControls": [],
+    "width": 320
+  },
+  {
+    "page": "methodology",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "DATA ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "2001-01-01 → 2026-08-31"
+      }
+    ],
+    "documentWidth": 320,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Know what the numbers can support."
+      },
+      {
+        "tag": "H2",
+        "text": "01 · Data source & coverage"
+      },
+      {
+        "tag": "H2",
+        "text": "02 · Data quality & exclusions"
+      },
+      {
+        "tag": "H2",
+        "text": "03 · Metric definitions"
+      },
+      {
+        "tag": "H2",
+        "text": "04 · Assumptions & limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "05 · Reproducibility"
+      }
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "namedFigures": [],
+    "oversizeControls": [],
+    "width": 320
+  },
+  {
+    "page": "anomaly",
+    "captions": [
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "TRANSIT DECISION INTELLIGENCE"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "RESEARCH ENVIRONMENT"
+      },
+      {
+        "color": "rgb(82, 100, 119)",
+        "opacity": 1,
+        "text": "cta-4c1c-v1 · NO-GO · no prospective validation"
+      }
+    ],
+    "documentWidth": 320,
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Anomaly Research Explorer"
+      },
+      {
+        "tag": "H2",
+        "text": "1 · Actual versus expected"
+      },
+      {
+        "tag": "H2",
+        "text": "2 · Investigation cases"
+      },
+      {
+        "tag": "H2",
+        "text": "3 · Model health and limitations"
+      },
+      {
+        "tag": "H2",
+        "text": "4 · Export research evidence"
+      }
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "namedFigures": [
+      "Historical actual and frozen expected daily boardings; up/down markers show filtered statistical candidates, not confirmed incidents.",
+      "Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear."
+    ],
+    "oversizeControls": [],
+    "width": 320
+  }
+]

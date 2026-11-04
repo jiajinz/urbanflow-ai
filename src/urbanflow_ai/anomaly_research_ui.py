@@ -23,7 +23,7 @@ from .anomaly_research_views import (
 )
 from .anomaly_research_charts import observation_chart, health_chart
 from .data_access import DataAccessError
-from .ui_design import apply_page_styles
+from .ui_design import apply_page_styles, readable_caption
 
 MODEL_LABELS = {
     "calendar_median": "Calendar Median",
@@ -46,7 +46,7 @@ def read_research():
 def render():
     with st.container(key="anomaly_research", gap="small"):
         apply_page_styles("anomaly_research", "anomaly")
-        st.caption("URBANFLOW AI / HISTORICAL ANOMALY RESEARCH")
+        readable_caption("URBANFLOW AI / HISTORICAL ANOMALY RESEARCH")
         st.title("Anomaly Research Explorer")
         st.markdown(
             "Explore historical Chicago Transit Authority (CTA) ridership candidates and the limits of their model-based evidence."
@@ -60,21 +60,21 @@ def render():
             bundle = read_research()
         except DataAccessError as exc:
             st.error(str(exc))
-            st.caption(
+            readable_caption(
                 "Research loading stopped. No fallback, model fitting, API call or database read is used. Other pages remain available."
             )
             return
         load_seconds = time.perf_counter() - started
         first = pd.Timestamp(bundle.provenance["first_date"]).date()
         last = pd.Timestamp(bundle.provenance["last_date"]).date()
-        st.caption(
+        readable_caption(
             f"Frozen research {VERSION} · {first}–{last} · independent of the other pages’ PostgreSQL/snapshot setting · not live"
         )
         with st.sidebar:
             st.divider()
-            st.caption("RESEARCH ENVIRONMENT")
+            readable_caption("RESEARCH ENVIRONMENT")
             st.markdown("Frozen anomaly artifacts · read only")
-            st.caption(f"{VERSION} · NO-GO · no prospective validation")
+            readable_caption(f"{VERSION} · NO-GO · no prospective validation")
         with st.container(key="anomaly_controls", gap="small"):
             left, right = st.columns(2)
             with left:
@@ -86,6 +86,7 @@ def render():
                     format_func=MODEL_LABELS.get,
                     key="research_model",
                     width="stretch",
+                    wrap=True,
                 )
                 dates = st.date_input(
                     "Service date range (inclusive)",
@@ -103,6 +104,7 @@ def render():
                     format_func=str.title,
                     key="research_mode",
                     width="stretch",
+                    wrap=True,
                 )
                 direction = st.segmented_control(
                     "Actual deviation direction",
@@ -116,6 +118,7 @@ def render():
                     }.get,
                     key="research_direction",
                     width="stretch",
+                    wrap=True,
                     help="Uses actual minus expected boardings, independently of the centered score sign.",
                 )
             with st.expander("Candidate search and optional filters"):
@@ -155,11 +158,11 @@ def render():
         except ValueError as exc:
             st.error(str(exc))
             return
-        st.caption(
+        readable_caption(
             f"Context: {MODEL_LABELS[model]} · {mode.title()} · {dates[0]}–{dates[1]} inclusive. Candidate subset: {direction}; urgency={urgent}, other-mode={cross}, health-warning={warning}, search={query!r}."
         )
-        st.subheader("1 · Actual versus expected")
-        st.caption(
+        st.header("1 · Actual versus expected")
+        readable_caption(
             f"{view.counts['observed_dates']:,} observed dates · {view.counts['visible_candidates']} visible / {view.counts['context_candidates']} context candidates. Candidate filters change markers and cases, not the curves or health context."
         )
         with st.container(border=True):
@@ -175,7 +178,14 @@ def render():
             config={"displaylogo": False},
             alt="Full selected-period research health states, unaffected by candidate-only filtering. Unknown is not clear.",
         )
-        st.subheader("2 · Investigation cases")
+        with st.expander("Inspect actual and expected values as a table"):
+            st.dataframe(
+                view.observations[["date", "model", "mode", "observed", "expected"]],
+                hide_index=True,
+                width="stretch",
+                alt="Complete selected-period actual and expected boardings, including noncandidate dates. Missing values stay blank.",
+            )
+        st.header("2 · Investigation cases")
         selected_id = None
         if view.candidates.empty:
             st.info(
@@ -252,7 +262,7 @@ def render():
                 placeholder="Select a candidate to inspect its evidence",
                 key="research_selected",
             )
-            st.caption(
+            readable_caption(
                 "Native table find/sort changes the display only. Search cases above determines exported membership."
             )
             evidence = select_case(bundle, view, selected_id)
@@ -267,7 +277,7 @@ def render():
                 st.markdown(
                     f"Actual deviation direction: **{r['actual_direction']}** · Centered score: **{r['centered_score']:+.2f} ({r['centered_score_sign']})**. These signs answer different questions."
                 )
-                st.caption(
+                readable_caption(
                     f"Episode {r['episode_id']} · {r['episode_days_asof']} elapsed days as of this date. Review: {r['review_status']}. Cause: {r['cause']}. Uncertainty: {r['uncertainty']}."
                 )
                 st.markdown(
@@ -292,7 +302,7 @@ def render():
                             ]
                         }
                     )
-                    st.caption(
+                    readable_caption(
                         "Prior 28-calendar-day same-CTA-day-type context; target excluded. No future observations are included."
                     )
                     if evidence.prior_context.empty:
@@ -314,7 +324,7 @@ def render():
                         st.info(
                             "Other-mode evidence is unavailable; normal conditions are not inferred."
                         )
-                    st.caption(r["evidence_limitations"])
+                    readable_caption(r["evidence_limitations"])
                 with st.expander(
                     "Full episode context — retrospective, may include later dates"
                 ):
@@ -324,11 +334,11 @@ def render():
                         width="stretch",
                         alt="Full retrospective episode boundaries; not inputs to the case’s as-of priority.",
                     )
-        st.subheader("3 · Model health and limitations")
+        st.header("3 · Model health and limitations")
         st.markdown(
             f"**{NO_GO}** · A locally clear state means only clear under research guards. All historical periods were previously inspected; no independent prospective evaluation occurred."
         )
-        st.caption(
+        readable_caption(
             f"{view.counts['health_warning_dates']} dates with model-health warnings · {view.counts['unknown_health_dates']} dates with unknown/insufficient/gap states. Model-health warnings and ridership candidates are separate concepts."
         )
         with st.expander("Inspect complete-period health evidence and definitions"):
@@ -341,10 +351,10 @@ def render():
                 width="stretch",
                 alt="All model-health evidence for the selected period, independent of candidate filters.",
             )
-            st.caption(
+            readable_caption(
                 "The historical grid ends at the last scored date and cannot detect unpublished tail observations or live feed delays. Scores do not identify weather, events, service disruptions or causes."
             )
-        st.subheader("4 · Export research evidence")
+        st.header("4 · Export research evidence")
         if st.button("Prepare current research export", key="research_prepare"):
             archive = export_research_view(view, selected_id)
             st.download_button(
@@ -355,12 +365,12 @@ def render():
                 key="research_download",
                 on_click="ignore",
             )
-        st.caption(
+        readable_caption(
             "ZIP: complete observations, filtered candidates, full-period health, retrospective episode context, selection definitions and provenance. Research only; no files or review decisions are written."
         )
         with st.expander("Source, model version and frozen provenance"):
             st.json(bundle.provenance)
-            st.caption(
+            readable_caption(
                 f"Verified research load this rerun: {load_seconds:.3f} s. Source retrieval is not agency publication; research generation time is not recorded."
             )
             for label, path in [

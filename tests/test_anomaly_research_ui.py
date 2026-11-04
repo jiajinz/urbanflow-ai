@@ -96,3 +96,19 @@ def test_page_never_calls_training_recalibration_or_database(monkeypatch):
     cached_research.clear()
     app.switch_page("app_pages/anomaly_research.py").run()
     assert not app.exception and len(app.get("plotly_chart")) == 2
+
+
+def test_observation_table_keeps_noncandidate_context_after_empty_search(monkeypatch):
+    import pandas as pd
+
+    app = start(monkeypatch)
+    before = app.dataframe[0].value.copy()
+    assert len(before) == 365
+    assert {'date', 'model', 'mode', 'observed', 'expected'} == set(before.columns)
+    app.text_input(key='research_query').set_value('no-candidate').run()
+    assert not app.exception
+    pd.testing.assert_frame_equal(app.dataframe[0].value, before)
+    assert [item.value for item in app.header] == [
+        '1 · Actual versus expected', '2 · Investigation cases',
+        '3 · Model health and limitations', '4 · Export research evidence',
+    ]

@@ -1,0 +1,358 @@
+[
+  {
+    "page": "overview",
+    "documentWidth": 1440,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "oversize": [
+      {
+        "tag": "INPUT",
+        "text": "Recovery chart years — end",
+        "width": 129
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1440,
+    "headings": [
+      "H1",
+      "H3"
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "oversize": [],
+    "width": 1440
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1440,
+    "headings": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "oversize": [],
+    "width": 1440
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1440,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 900,
+    "mainWidth": 1440,
+    "oversize": [],
+    "width": 1440
+  },
+  {
+    "page": "overview",
+    "documentWidth": 1280,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "oversize": [
+      {
+        "tag": "INPUT",
+        "text": "Recovery chart years — end",
+        "width": 129
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1280,
+    "headings": [
+      "H1",
+      "H3"
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "oversize": [],
+    "width": 1280
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1280,
+    "headings": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "oversize": [],
+    "width": 1280
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1280,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 720,
+    "mainWidth": 1280,
+    "oversize": [],
+    "width": 1280
+  },
+  {
+    "page": "overview",
+    "documentWidth": 1024,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "oversize": [
+      {
+        "tag": "INPUT",
+        "text": "Recovery chart years — end",
+        "width": 129
+      }
+    ],
+    "width": 1024
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 1024,
+    "headings": [
+      "H1",
+      "H3"
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "oversize": [],
+    "width": 1024
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 1024,
+    "headings": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "oversize": [],
+    "width": 1024
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 1024,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 768,
+    "mainWidth": 1024,
+    "oversize": [],
+    "width": 1024
+  },
+  {
+    "page": "overview",
+    "documentWidth": 390,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "oversize": [
+      {
+        "tag": "INPUT",
+        "text": "Recovery chart years — end",
+        "width": 129
+      }
+    ],
+    "width": 390
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 390,
+    "headings": [
+      "H1",
+      "H3"
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "oversize": [],
+    "width": 390
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 390,
+    "headings": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "oversize": [],
+    "width": 390
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 390,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 844,
+    "mainWidth": 390,
+    "oversize": [],
+    "width": 390
+  },
+  {
+    "page": "overview",
+    "documentWidth": 320,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "oversize": [
+      {
+        "tag": "INPUT",
+        "text": "Recovery chart years — end",
+        "width": 129
+      }
+    ],
+    "width": 320
+  },
+  {
+    "page": "explorer",
+    "documentWidth": 320,
+    "headings": [
+      "H1",
+      "H3"
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "oversize": [],
+    "width": 320
+  },
+  {
+    "page": "methodology",
+    "documentWidth": 320,
+    "headings": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "oversize": [],
+    "width": 320
+  },
+  {
+    "page": "anomaly",
+    "documentWidth": 320,
+    "headings": [
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "height": 700,
+    "mainWidth": 320,
+    "oversize": [
+      {
+        "tag": "BUTTON",
+        "text": "Below expected",
+        "width": 126.4375
+      }
+    ],
+    "width": 320
+  }
+]

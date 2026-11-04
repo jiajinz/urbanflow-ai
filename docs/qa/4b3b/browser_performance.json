@@ -1,0 +1,18 @@
+[
+  {
+    "page": "overview",
+    "navigation_to_dom_and_first_svg_ms": 464
+  },
+  {
+    "page": "explorer",
+    "navigation_to_dom_and_first_svg_ms": 417
+  },
+  {
+    "page": "methodology",
+    "navigation_to_dom_and_first_svg_ms": 519
+  },
+  {
+    "page": "anomaly",
+    "navigation_to_dom_and_first_svg_ms": 467
+  }
+]

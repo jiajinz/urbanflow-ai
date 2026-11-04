@@ -61,6 +61,6 @@ def executive_summary(model):
     """Separate the existing finding from its supporting evidence, without edits."""
     headline, separator, evidence = model['summary'].partition('. ')
     with st.container(key="overview_summary", gap="xsmall"):
-        st.markdown(f"### {headline}{'.' if separator else ''}")
+        st.markdown(f"## {headline}{'.' if separator else ''}")
         if evidence:
             st.markdown(evidence)
