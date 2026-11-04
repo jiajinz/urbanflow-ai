@@ -1,0 +1,14 @@
+{
+  "name": "urbanflow_ai-0.1.0-py3-none-any.whl",
+  "sha256": "72b8981cabf8a0b44f3d5ce6dbffafb8475e3b4ca1b04fc19548cb1026e20af6",
+  "sql_files": [
+    "urbanflow_ai/sql/base.sql",
+    "urbanflow_ai/sql/daily.sql",
+    "urbanflow_ai/sql/day_comparison.sql",
+    "urbanflow_ai/sql/extremes.sql",
+    "urbanflow_ai/sql/monthly.sql",
+    "urbanflow_ai/sql/research_monthly.sql",
+    "urbanflow_ai/sql/summary.sql",
+    "urbanflow_ai/sql/weekly.sql"
+  ]
+}

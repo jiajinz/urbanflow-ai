@@ -1,0 +1,12 @@
+{
+  "processes": [
+    {
+      "pid": 18827,
+      "ppid": 1058,
+      "rss_kib": 73728,
+      "executable": "Python"
+    }
+  ],
+  "summed_rss_mib": 72.0,
+  "scope": "Local server process tree after four-page browser smoke; not per-user or cloud peak"
+}

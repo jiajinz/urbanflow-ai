@@ -1,0 +1,16 @@
+{
+  "dataset_id": "6iiy-9s97",
+  "name": "CTA - Ridership - Daily Boarding Totals",
+  "publisher": "Chicago Transit Authority",
+  "license": {
+    "name": "See Terms of Use"
+  },
+  "read_access": [
+    "read"
+  ],
+  "terms_url_reviewed": "https://data.cityofchicago.org/api/assets/F1D239A9-B082-4C11-9F6F-2E637985FA5C",
+  "terms_sha256": "ca779b5b203a6a226b53ac526e5081bb91262bc1b221f9e9d56dd018312daef3",
+  "terms_format": "Windows-1252 HTML",
+  "dataset_specific_terms_url_in_metadata": false,
+  "release_basis_status": "Owner review or publisher clarification required"
+}

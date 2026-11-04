@@ -1,0 +1,59 @@
+{
+  "commits": 7,
+  "blobs_reviewed": 227,
+  "matches": {
+    "private_key": [],
+    "github_token": [],
+    "aws_access_key": [],
+    "password_uri": [
+      {
+        "blob": "418581139868",
+        "path": "docs/dashboard_development.md"
+      },
+      {
+        "blob": "fba5008af699",
+        "path": "tests/test_database.py"
+      },
+      {
+        "blob": "535d5c394d44",
+        "path": "README.md"
+      },
+      {
+        "blob": "b7ba22fffe74",
+        "path": "README.md"
+      }
+    ],
+    "personal_path": [
+      {
+        "blob": "605728ec01ca",
+        "path": "data/anomaly/cta-4c1b-v1/manifest.json"
+      },
+      {
+        "blob": "5517fe859d54",
+        "path": "data/anomaly/cta-4c1c-v1/manifest.json"
+      },
+      {
+        "blob": "8d35f2a52643",
+        "path": "src/urbanflow_ai/anomaly_research_data.py"
+      }
+    ],
+    "email": [
+      {
+        "blob": "f607e6140f06",
+        "path": "docs/figures/06_anomaly_evaluation.html"
+      },
+      {
+        "blob": "f410dc1a1076",
+        "path": "docs/figures/07_anomaly_validation.html"
+      },
+      {
+        "blob": "00eaaaac46d2",
+        "path": "docs/figures/08_anomaly_readiness.html"
+      },
+      {
+        "blob": "147170682408",
+        "path": "docs/figures/plotly.min.js"
+      }
+    ]
+  }
+}

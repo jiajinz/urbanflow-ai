@@ -12,6 +12,9 @@ def main():
     with st.sidebar:
         st.markdown("### UrbanFlow AI")
         readable_caption("TRANSIT DECISION INTELLIGENCE")
+        readable_caption(
+            "Data provided by Chicago Transit Authority (CTA). Independent project; no agency affiliation or endorsement."
+        )
     page = st.navigation([
         st.Page("app_pages/overview.py", title="Executive Overview", default=True),
         st.Page("app_pages/explorer.py", title="Ridership Explorer", url_path="explorer"),

@@ -1,0 +1,18 @@
+{
+  "server": "isolated Python 3.11.9 runtime; local port 8516",
+  "pages": {
+    "overview": "PASS: baseline switching 70.90 -> 69.18 -> 70.90",
+    "explorer": "PASS: dates, W/A day types, modes, baseline, empty state and exact 48-row CSV",
+    "methodology": "PASS: navigation, provenance and traceable July 2012 quarantine",
+    "anomaly_research": "PASS: model switch, critical signed-deviation case, empty candidates, health and ZIP"
+  },
+  "research_missing_artifacts": "PASS: independent local error service; other pages remain usable",
+  "download_checks": "downloads.json",
+  "normal_browser_errors": [],
+  "zoom_200_percent": "NOT VERIFIED: no embedded zoom API; native Chrome control permission unavailable",
+  "screen_reader": "NOT VERIFIED",
+  "release_screenshot_viewport": [
+    1280,
+    720
+  ]
+}

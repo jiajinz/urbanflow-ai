@@ -1,1 +1,3 @@
+# Validated V1 runtime; refresh pins through the release preflight.
+-c constraints.txt
 -e .

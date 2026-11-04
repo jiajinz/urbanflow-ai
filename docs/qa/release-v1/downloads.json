@@ -1,0 +1,10 @@
+{
+  "explorer_rows": 48,
+  "explorer_csv_matches": "PASS",
+  "zip_crc": "PASS",
+  "zip_four_tables_match": "PASS",
+  "zip_candidates": 1,
+  "zip_observations": 1,
+  "zip_health": 1,
+  "zip_provenance_and_no_go": "PASS"
+}

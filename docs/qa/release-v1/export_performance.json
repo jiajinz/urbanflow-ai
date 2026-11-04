@@ -1,0 +1,17 @@
+{
+  "default_year": {
+    "view_and_charts_median_seconds": 0.01633462500103633,
+    "zip_generation_median_seconds": 0.008512208001775434,
+    "zip_bytes": 55685,
+    "observations": 365,
+    "candidates": 17
+  },
+  "full_history": {
+    "view_and_charts_median_seconds": 0.02077741700122715,
+    "zip_generation_median_seconds": 0.06022316700182273,
+    "zip_bytes": 407722,
+    "observations": 2800,
+    "candidates": 161
+  },
+  "process_peak_rss_mib": 255.5
+}

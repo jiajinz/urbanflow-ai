@@ -1,5 +1,6 @@
 # AI agent instructions
 AGENTS.md
+.agents/
 
 # IDE configuration
 .idea/
@@ -7,6 +8,8 @@ AGENTS.md
 # Python environment
 .venv/
 .env
+.env.*
+!.env.example
 
 # Python cache
 __pycache__/
